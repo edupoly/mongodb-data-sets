@@ -1,0 +1,15 @@
+
+  [
+    {
+      "subjectname": "HTML",
+      "id": 1
+    },
+    {
+      "subjectname": "CSS",
+      "id": 2
+    },
+    {
+      "subjectname": "Javascript",
+      "id": 3
+    }
+  ]

@@ -1,0 +1,123 @@
+{
+	
+  "tasklist": [
+    {
+      "title": "make videos for udemy",
+      "status": "notcompleted",
+      "id": 1
+    },
+    {
+      "title": "make react tutorial website",
+      "status": "notcompleted",
+      "id": 2
+    },
+    {
+      "title": "train tickets",
+      "status": "completed",
+      "id": 3
+    }
+  ],
+  "subjects": [
+    {
+      "subjectname": "HTML",
+      "id": 1
+    },
+    {
+      "subjectname": "CSS",
+      "id": 2
+    },
+    {
+      "subjectname": "Javascript",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "username": "praveen",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "username": "priya",
+      "password": "123",
+      "id": 15
+    }
+  ],
+  "heroes": [
+    {
+      "firstname": "salman",
+      "id": 1,
+      "bestpair": "katrina"
+    },
+    {
+      "firstname": "Amir",
+      "id": 2,
+      "bestpair": "karishma"
+    },
+    {
+      "firstname": "Akshay",
+      "id": 3,
+      "bestpair": "sonakshi"
+    },
+    {
+      "firstname": "Saif",
+      "id": 4,
+      "bestpair": "kareena"
+    },
+    {
+      "firstname": "Anilkapoor",
+      "id": 5,
+      "bestpair": "madhuri"
+    },
+    {
+      "firstname": "Ranbir",
+      "id": 6,
+      "bestpair": "Deepika"
+    },
+    {
+      "firstname": "Ranveer",
+      "id": 7,
+      "bestpair": "Anushka"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "description": "nokia asha3",
+      "image-url": "https://images-na.ssl-images-amazon.com/images/I/815t%2B9DF6SL._SL1500_.jpg",
+      "price": "4567",
+      "id": 12357
+    },
+    {
+      "description": "redmi",
+      "image-url": "https://akm-img-a-in.tosshub.com/indiatoday/xiaomi-redmi-y1-main-559_112717041742.jpg",
+      "price": "7894",
+      "id": 12359
+    }
+  ]
+}
