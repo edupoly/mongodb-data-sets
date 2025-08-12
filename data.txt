@@ -1,0 +1,83 @@
+Use commands directly to create documents in the collection
+Create collections by directly copy the command and run
+
+Users Collections
+
+db.users.insertMany([
+  { _id: ObjectId("64e1a1111111111111111111"), name: "Alice Johnson", email: "alice@example.com", age: 29, isPrimeMember: true, address: { street: "123 Main St", city: "New York", zip: "10001" }, joined: ISODate("2023-02-15T10:00:00Z") },
+  { _id: ObjectId("64e1a2222222222222222222"), name: "Bob Smith", email: "bob@example.com", age: 35, isPrimeMember: false, address: { street: "456 Oak Ave", city: "Chicago", zip: "60610" }, joined: ISODate("2022-10-05T15:30:00Z") },
+  { _id: ObjectId("64e1a3333333333333333333"), name: "Charlie Davis", email: "charlie@example.com", age: 40, isPrimeMember: true, address: { street: "789 Pine Rd", city: "Los Angeles", zip: "90001" }, joined: ISODate("2021-06-12T09:00:00Z") },
+  { _id: ObjectId("64e1a4444444444444444444"), name: "Diana Ross", email: "diana@example.com", age: 27, isPrimeMember: false, address: { street: "321 Maple St", city: "Houston", zip: "77002" }, joined: ISODate("2023-05-21T13:45:00Z") },
+  { _id: ObjectId("64e1a5555555555555555555"), name: "Ethan Wright", email: "ethan@example.com", age: 33, isPrimeMember: true, address: { street: "654 Cedar Ave", city: "Phoenix", zip: "85001" }, joined: ISODate("2022-02-01T08:30:00Z") },
+  { _id: ObjectId("64e1a6666666666666666666"), name: "Fiona Lee", email: "fiona@example.com", age: 31, isPrimeMember: true, address: { street: "987 Birch Blvd", city: "Philadelphia", zip: "19103" }, joined: ISODate("2021-11-15T15:15:00Z") },
+  { _id: ObjectId("64e1a7777777777777777777"), name: "George Hall", email: "george@example.com", age: 26, isPrimeMember: false, address: { street: "147 Elm St", city: "San Antonio", zip: "78205" }, joined: ISODate("2023-08-01T14:00:00Z") },
+  { _id: ObjectId("64e1a8888888888888888888"), name: "Hannah Scott", email: "hannah@example.com", age: 38, isPrimeMember: true, address: { street: "258 Walnut Ave", city: "San Diego", zip: "92101" }, joined: ISODate("2020-03-18T12:20:00Z") },
+  { _id: ObjectId("64e1a9999999999999999999"), name: "Ian Moore", email: "ian@example.com", age: 45, isPrimeMember: false, address: { street: "369 Spruce Dr", city: "Dallas", zip: "75201" }, joined: ISODate("2019-07-10T16:10:00Z") },
+  { _id: ObjectId("64e1a1010101010101010101"), name: "Jenna Brown", email: "jenna@example.com", age: 24, isPrimeMember: true, address: { street: "753 Willow Ct", city: "Austin", zip: "73301" }, joined: ISODate("2023-01-10T09:05:00Z") },
+  { _id: ObjectId("64e1a1212121212121212121"), name: "Kevin Young", email: "kevin@example.com", age: 36, isPrimeMember: true, address: { street: "951 Aspen Way", city: "San Jose", zip: "95110" }, joined: ISODate("2022-12-02T18:00:00Z") },
+  { _id: ObjectId("64e1a1313131313131313131"), name: "Linda Perez", email: "linda@example.com", age: 28, isPrimeMember: false, address: { street: "852 Poplar Ln", city: "Jacksonville", zip: "32099" }, joined: ISODate("2021-09-30T21:30:00Z") }
+]);
+Categories collections
+db.categories.insertMany([
+  { _id: 1, name: "Electronics" },
+  { _id: 2, name: "Books" },
+  { _id: 3, name: "Clothing" },
+  { _id: 4, name: "Home Appliances" },
+  { _id: 5, name: "Sports" },
+  { _id: 6, name: "Beauty & Personal Care" },
+  { _id: 7, name: "Toys" },
+  { _id: 8, name: "Automotive" },
+  { _id: 9, name: "Furniture" },
+  { _id: 10, name: "Music" },
+  { _id: 11, name: "Pet Supplies" },
+  { _id: 12, name: "Groceries" }
+]);
+
+Products collection
+db.products.insertMany([
+  { _id: ObjectId("64e1b1111111111111111111"), name: "Wireless Mouse", price: 25.99, categoryId: 1, tags: ["wireless", "computer", "accessory"], stock: 120, ratings: [4, 5, 3, 4] },
+  { _id: ObjectId("64e1b2222222222222222222"), name: "JavaScript: The Good Parts", price: 19.99, categoryId: 2, tags: ["javascript", "programming", "book"], stock: 45, ratings: [5, 5, 4] },
+  { _id: ObjectId("64e1b3333333333333333333"), name: "Men's T-Shirt", price: 15.50, categoryId: 3, tags: ["clothing", "men", "casual"], stock: 200, ratings: [3, 4, 4, 5, 2] },
+  { _id: ObjectId("64e1b4444444444444444444"), name: "Blender", price: 49.99, categoryId: 4, tags: ["kitchen", "appliance"], stock: 60, ratings: [4, 4, 5] },
+  { _id: ObjectId("64e1b5555555555555555555"), name: "Football", price: 29.99, categoryId: 5, tags: ["sports", "outdoor"], stock: 80, ratings: [5, 5, 4, 4] },
+  { _id: ObjectId("64e1b6666666666666666666"), name: "Shampoo", price: 8.99, categoryId: 6, tags: ["beauty", "hair"], stock: 150, ratings: [3, 4, 4, 5] },
+  { _id: ObjectId("64e1b7777777777777777777"), name: "Lego Set", price: 59.99, categoryId: 7, tags: ["toy", "building"], stock: 40, ratings: [5, 5, 5, 4] },
+  { _id: ObjectId("64e1b8888888888888888888"), name: "Car Tire", price: 89.99, categoryId: 8, tags: ["automotive", "tire"], stock: 25, ratings: [4, 3, 5] },
+  { _id: ObjectId("64e1b9999999999999999999"), name: "Office Chair", price: 149.99, categoryId: 9, tags: ["furniture", "office"], stock: 30, ratings: [4, 5, 4, 4] },
+  { _id: ObjectId("64e1b1010101010101010101"), name: "Guitar", price: 299.99, categoryId: 10, tags: ["music", "instrument"], stock: 15, ratings: [5, 4, 4] },
+  { _id: ObjectId("64e1b1212121212121212121"), name: "Dog Food", price: 39.99, categoryId: 11, tags: ["pet", "food"], stock: 90, ratings: [5, 4, 4, 3] },
+  { _id: ObjectId("64e1b1313131313131313131"), name: "Organic Apples", price: 3.99, categoryId: 12, tags: ["grocery", "fruit"], stock: 300, ratings: [4, 5, 5] }
+]);
+
+
+Orders collection:
+db.orders.insertMany([
+  { _id: ObjectId("64e1c1111111111111111111"), userId: ObjectId("64e1a1111111111111111111"), items: [ { productId: ObjectId("64e1b1111111111111111111"), quantity: 2 }, { productId: ObjectId("64e1b2222222222222222222"), quantity: 1 } ], totalAmount: 71.97, status: "Shipped", orderDate: ISODate("2023-03-01T09:15:00Z") },
+  { _id: ObjectId("64e1c2222222222222222222"), userId: ObjectId("64e1a2222222222222222222"), items: [ { productId: ObjectId("64e1b3333333333333333333"), quantity: 3 } ], totalAmount: 46.50, status: "Processing", orderDate: ISODate("2023-03-05T11:20:00Z") },
+  { _id: ObjectId("64e1c3333333333333333333"), userId: ObjectId("64e1a3333333333333333333"), items: [ { productId: ObjectId("64e1b4444444444444444444"), quantity: 1 } ], totalAmount: 49.99, status: "Delivered", orderDate: ISODate("2023-02-20T08:40:00Z") },
+  { _id: ObjectId("64e1c4444444444444444444"), userId: ObjectId("64e1a4444444444444444444"), items: [ { productId: ObjectId("64e1b5555555555555555555"), quantity: 2 }, { productId: ObjectId("64e1b6666666666666666666"), quantity: 1 } ], totalAmount: 68.97, status: "Shipped", orderDate: ISODate("2023-04-10T13:50:00Z") },
+  { _id: ObjectId("64e1c5555555555555555555"), userId: ObjectId("64e1a5555555555555555555"), items: [ { productId: ObjectId("64e1b7777777777777777777"), quantity: 1 } ], totalAmount: 59.99, status: "Processing", orderDate: ISODate("2023-05-12T16:15:00Z") },
+  { _id: ObjectId("64e1c6666666666666666666"), userId: ObjectId("64e1a6666666666666666666"), items: [ { productId: ObjectId("64e1b8888888888888888888"), quantity: 4 } ], totalAmount: 359.96, status: "Delivered", orderDate: ISODate("2023-01-22T19:05:00Z") },
+  { _id: ObjectId("64e1c7777777777777777777"), userId: ObjectId("64e1a7777777777777777777"), items: [ { productId: ObjectId("64e1b9999999999999999999"), quantity: 2 } ], totalAmount: 299.98, status: "Shipped", orderDate: ISODate("2023-02-14T11:30:00Z") },
+  { _id: ObjectId("64e1c8888888888888888888"), userId: ObjectId("64e1a8888888888888888888"), items: [ { productId: ObjectId("64e1b1010101010101010101"), quantity: 1 } ], totalAmount: 299.99, status: "Processing", orderDate: ISODate("2023-06-03T09:00:00Z") },
+  { _id: ObjectId("64e1c9999999999999999999"), userId: ObjectId("64e1a9999999999999999999"), items: [ { productId: ObjectId("64e1b1212121212121212121"), quantity: 5 } ], totalAmount: 199.95, status: "Delivered", orderDate: ISODate("2023-07-20T20:15:00Z") },
+  { _id: ObjectId("64e1c1010101010101010101"), userId: ObjectId("64e1a1010101010101010101"), items: [ { productId: ObjectId("64e1b1313131313131313131"), quantity: 10 } ], totalAmount: 39.90, status: "Shipped", orderDate: ISODate("2023-08-02T08:25:00Z") },
+  { _id: ObjectId("64e1c1212121212121212121"), userId: ObjectId("64e1a1212121212121212121"), items: [ { productId: ObjectId("64e1b2222222222222222222"), quantity: 2 } ], totalAmount: 39.98, status: "Delivered", orderDate: ISODate("2023-09-10T15:55:00Z") },
+  { _id: ObjectId("64e1c1313131313131313131"), userId: ObjectId("64e1a1313131313131313131"), items: [ { productId: ObjectId("64e1b5555555555555555555"), quantity: 1 }, { productId: ObjectId("64e1b6666666666666666666"), quantity: 2 } ], totalAmount: 47.97, status: "Processing", orderDate: ISODate("2023-10-01T12:10:00Z") }
+]);
+
+Reviews Collection:
+db.reviews.insertMany([
+  { _id: ObjectId("64e1d1111111111111111111"), productId: ObjectId("64e1b1111111111111111111"), userId: ObjectId("64e1a1111111111111111111"), rating: 4, comment: "Good mouse, works well.", date: ISODate("2023-03-02T14:00:00Z") },
+  { _id: ObjectId("64e1d2222222222222222222"), productId: ObjectId("64e1b2222222222222222222"), userId: ObjectId("64e1a2222222222222222222"), rating: 5, comment: "Great book for JavaScript learners.", date: ISODate("2023-03-06T10:00:00Z") },
+  { _id: ObjectId("64e1d3333333333333333333"), productId: ObjectId("64e1b3333333333333333333"), userId: ObjectId("64e1a3333333333333333333"), rating: 3, comment: "Comfortable shirt but color fades.", date: ISODate("2023-04-12T12:30:00Z") },
+  { _id: ObjectId("64e1d4444444444444444444"), productId: ObjectId("64e1b4444444444444444444"), userId: ObjectId("64e1a4444444444444444444"), rating: 4, comment: "Blends smoothies perfectly.", date: ISODate("2023-05-01T08:20:00Z") },
+  { _id: ObjectId("64e1d5555555555555555555"), productId: ObjectId("64e1b5555555555555555555"), userId: ObjectId("64e1a5555555555555555555"), rating: 5, comment: "Perfect for weekend games.", date: ISODate("2023-06-15T10:45:00Z") },
+  { _id: ObjectId("64e1d6666666666666666666"), productId: ObjectId("64e1b6666666666666666666"), userId: ObjectId("64e1a6666666666666666666"), rating: 4, comment: "Nice fragrance, lasts long.", date: ISODate("2023-02-28T14:10:00Z") },
+  { _id: ObjectId("64e1d7777777777777777777"), productId: ObjectId("64e1b7777777777777777777"), userId: ObjectId("64e1a7777777777777777777"), rating: 5, comment: "Kids love it!", date: ISODate("2023-07-05T17:25:00Z") },
+  { _id: ObjectId("64e1d8888888888888888888"), productId: ObjectId("64e1b8888888888888888888"), userId: ObjectId("64e1a8888888888888888888"), rating: 3, comment: "Decent tire but wears fast.", date: ISODate("2023-08-19T09:50:00Z") },
+  { _id: ObjectId("64e1d9999999999999999999"), productId: ObjectId("64e1b9999999999999999999"), userId: ObjectId("64e1a9999999999999999999"), rating: 4, comment: "Very comfortable chair.", date: ISODate("2023-09-08T13:15:00Z") },
+  { _id: ObjectId("64e1d1010101010101010101"), productId: ObjectId("64e1b1010101010101010101"), userId: ObjectId("64e1a1010101010101010101"), rating: 5, comment: "Sounds amazing.", date: ISODate("2023-10-03T15:40:00Z") },
+  { _id: ObjectId("64e1d1212121212121212121"), productId: ObjectId("64e1b1212121212121212121"), userId: ObjectId("64e1a1212121212121212121"), rating: 4, comment: "My dog loves it!", date: ISODate("2023-01-14T18:05:00Z") },
+  { _id: ObjectId("64e1d1313131313131313131"), productId: ObjectId("64e1b1313131313131313131"), userId: ObjectId("64e1a1313131313131313131"), rating: 5, comment: "Fresh and tasty.", date: ISODate("2023-02-10T07:55:00Z") }
+]);
