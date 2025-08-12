@@ -35,18 +35,114 @@ db.categories.insertMany([
 
 Products collection
 db.products.insertMany([
-  { _id: ObjectId("64e1b1111111111111111111"), name: "Wireless Mouse", price: 25.99, categoryId: 1, tags: ["wireless", "computer", "accessory"], stock: 120, ratings: [4, 5, 3, 4] },
-  { _id: ObjectId("64e1b2222222222222222222"), name: "JavaScript: The Good Parts", price: 19.99, categoryId: 2, tags: ["javascript", "programming", "book"], stock: 45, ratings: [5, 5, 4] },
-  { _id: ObjectId("64e1b3333333333333333333"), name: "Men's T-Shirt", price: 15.50, categoryId: 3, tags: ["clothing", "men", "casual"], stock: 200, ratings: [3, 4, 4, 5, 2] },
-  { _id: ObjectId("64e1b4444444444444444444"), name: "Blender", price: 49.99, categoryId: 4, tags: ["kitchen", "appliance"], stock: 60, ratings: [4, 4, 5] },
-  { _id: ObjectId("64e1b5555555555555555555"), name: "Football", price: 29.99, categoryId: 5, tags: ["sports", "outdoor"], stock: 80, ratings: [5, 5, 4, 4] },
-  { _id: ObjectId("64e1b6666666666666666666"), name: "Shampoo", price: 8.99, categoryId: 6, tags: ["beauty", "hair"], stock: 150, ratings: [3, 4, 4, 5] },
-  { _id: ObjectId("64e1b7777777777777777777"), name: "Lego Set", price: 59.99, categoryId: 7, tags: ["toy", "building"], stock: 40, ratings: [5, 5, 5, 4] },
-  { _id: ObjectId("64e1b8888888888888888888"), name: "Car Tire", price: 89.99, categoryId: 8, tags: ["automotive", "tire"], stock: 25, ratings: [4, 3, 5] },
-  { _id: ObjectId("64e1b9999999999999999999"), name: "Office Chair", price: 149.99, categoryId: 9, tags: ["furniture", "office"], stock: 30, ratings: [4, 5, 4, 4] },
-  { _id: ObjectId("64e1b1010101010101010101"), name: "Guitar", price: 299.99, categoryId: 10, tags: ["music", "instrument"], stock: 15, ratings: [5, 4, 4] },
-  { _id: ObjectId("64e1b1212121212121212121"), name: "Dog Food", price: 39.99, categoryId: 11, tags: ["pet", "food"], stock: 90, ratings: [5, 4, 4, 3] },
-  { _id: ObjectId("64e1b1313131313131313131"), name: "Organic Apples", price: 3.99, categoryId: 12, tags: ["grocery", "fruit"], stock: 300, ratings: [4, 5, 5] }
+  {
+    _id: ObjectId("64e1b1111111111111111111"),
+    name: "Wireless Mouse",
+    price: 25.99,
+    categoryId: 1,
+    tags: ["wireless", "computer", "accessory", "electronics", "bestseller"],
+    stock: 120,
+    ratings: [4, 5, 3, 4]
+  },
+  {
+    _id: ObjectId("64e1b2222222222222222222"),
+    name: "JavaScript: The Good Parts",
+    price: 19.99,
+    categoryId: 2,
+    tags: ["javascript", "programming", "book", "education"],
+    stock: 45,
+    ratings: [5, 5, 4]
+  },
+  {
+    _id: ObjectId("64e1b3333333333333333333"),
+    name: "Men's T-Shirt",
+    price: 15.50,
+    categoryId: 3,
+    tags: ["clothing", "men", "casual", "unisex"],
+    stock: 200,
+    ratings: [3, 4, 4, 5, 2]
+  },
+  {
+    _id: ObjectId("64e1b4444444444444444444"),
+    name: "Blender",
+    price: 49.99,
+    categoryId: 4,
+    tags: ["kitchenware", "appliances", "cooking", "home"],
+    stock: 60,
+    ratings: [4, 4, 5]
+  },
+  {
+    _id: ObjectId("64e1b5555555555555555555"),
+    name: "Football",
+    price: 29.99,
+    categoryId: 5,
+    tags: ["sports", "outdoor", "fitness"],
+    stock: 80,
+    ratings: [5, 5, 4, 4]
+  },
+  {
+    _id: ObjectId("64e1b6666666666666666666"),
+    name: "Shampoo",
+    price: 8.99,
+    categoryId: 6,
+    tags: ["beauty", "hair", "personal-care"],
+    stock: 150,
+    ratings: [3, 4, 4, 5]
+  },
+  {
+    _id: ObjectId("64e1b7777777777777777777"),
+    name: "Lego Set",
+    price: 59.99,
+    categoryId: 7,
+    tags: ["toy", "building", "kids", "education"],
+    stock: 40,
+    ratings: [5, 5, 5, 4]
+  },
+  {
+    _id: ObjectId("64e1b8888888888888888888"),
+    name: "Car Tire",
+    price: 89.99,
+    categoryId: 8,
+    tags: ["automotive", "tools"],
+    stock: 25,
+    ratings: [4, 3, 5]
+  },
+  {
+    _id: ObjectId("64e1b9999999999999999999"),
+    name: "Office Chair",
+    price: 149.99,
+    categoryId: 9,
+    tags: ["furniture", "office", "home"],
+    stock: 30,
+    ratings: [4, 5, 4, 4]
+  },
+  {
+    _id: ObjectId("64e1b1010101010101010101"),
+    name: "Guitar",
+    price: 299.99,
+    categoryId: 10,
+    tags: ["music", "instrument", "hobby"],
+    stock: 15,
+    ratings: [5, 4, 4]
+  },
+  {
+    _id: ObjectId("64e1b1212121212121212121"),
+    name: "Dog Food",
+    price: 39.99,
+    categoryId: 11,
+    tags: ["pet", "food", "grocery"],
+    stock: 90,
+    ratings: [5, 4, 4, 3]
+  },
+  {
+    _id: ObjectId("64e1b1313131313131313131"),
+    name: "Organic Apples",
+    price: 3.99,
+    categoryId: 12,
+    tags: ["grocery", "fruit", "organic", "food"],
+    stock: 300,
+    ratings: [4, 5, 5]
+  }
 ]);
 
 
