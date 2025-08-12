@@ -42,7 +42,8 @@ db.products.insertMany([
     categoryId: 1,
     tags: ["wireless", "computer", "accessory", "electronics", "bestseller"],
     stock: 120,
-    ratings: [4, 5, 3, 4]
+    ratings: [4, 5, 3, 4],
+    madeIn:"China"
   },
   {
     _id: ObjectId("64e1b2222222222222222222"),
@@ -51,7 +52,8 @@ db.products.insertMany([
     categoryId: 2,
     tags: ["javascript", "programming", "book", "education"],
     stock: 45,
-    ratings: [5, 5, 4]
+    ratings: [5, 5, 4],
+    madeIn:"China"
   },
   {
     _id: ObjectId("64e1b3333333333333333333"),
@@ -60,7 +62,8 @@ db.products.insertMany([
     categoryId: 3,
     tags: ["clothing", "men", "casual", "unisex"],
     stock: 200,
-    ratings: [3, 4, 4, 5, 2]
+    ratings: [3, 4, 4, 5, 2],
+    madeIn:"India"
   },
   {
     _id: ObjectId("64e1b4444444444444444444"),
@@ -69,7 +72,8 @@ db.products.insertMany([
     categoryId: 4,
     tags: ["kitchenware", "appliances", "cooking", "home"],
     stock: 60,
-    ratings: [4, 4, 5]
+    ratings: [4, 4, 5],
+    madeIn:"China"
   },
   {
     _id: ObjectId("64e1b5555555555555555555"),
@@ -78,7 +82,8 @@ db.products.insertMany([
     categoryId: 5,
     tags: ["sports", "outdoor", "fitness"],
     stock: 80,
-    ratings: [5, 5, 4, 4]
+    ratings: [5, 5, 4, 4],
+    madeIn:"India"
   },
   {
     _id: ObjectId("64e1b6666666666666666666"),
@@ -87,7 +92,8 @@ db.products.insertMany([
     categoryId: 6,
     tags: ["beauty", "hair", "personal-care"],
     stock: 150,
-    ratings: [3, 4, 4, 5]
+    ratings: [3, 4, 4, 5],
+    madeIn:"Pakistan"
   },
   {
     _id: ObjectId("64e1b7777777777777777777"),
@@ -96,7 +102,8 @@ db.products.insertMany([
     categoryId: 7,
     tags: ["toy", "building", "kids", "education"],
     stock: 40,
-    ratings: [5, 5, 5, 4]
+    ratings: [5, 5, 5, 4],
+    madeIn:"India"
   },
   {
     _id: ObjectId("64e1b8888888888888888888"),
@@ -105,7 +112,8 @@ db.products.insertMany([
     categoryId: 8,
     tags: ["automotive", "tools"],
     stock: 25,
-    ratings: [4, 3, 5]
+    ratings: [4, 3, 5],
+    madeIn:"USA"
   },
   {
     _id: ObjectId("64e1b9999999999999999999"),
@@ -114,7 +122,8 @@ db.products.insertMany([
     categoryId: 9,
     tags: ["furniture", "office", "home"],
     stock: 30,
-    ratings: [4, 5, 4, 4]
+    ratings: [4, 5, 4, 4],
+    madeIn:"India"
   },
   {
     _id: ObjectId("64e1b1010101010101010101"),
@@ -123,7 +132,8 @@ db.products.insertMany([
     categoryId: 10,
     tags: ["music", "instrument", "hobby"],
     stock: 15,
-    ratings: [5, 4, 4]
+    ratings: [5, 4, 4],
+    madeIn:"Pakistan"
   },
   {
     _id: ObjectId("64e1b1212121212121212121"),
@@ -132,7 +142,8 @@ db.products.insertMany([
     categoryId: 11,
     tags: ["pet", "food", "grocery"],
     stock: 90,
-    ratings: [5, 4, 4, 3]
+    ratings: [5, 4, 4, 3],
+    madeIn:"China"
   },
   {
     _id: ObjectId("64e1b1313131313131313131"),
@@ -141,7 +152,8 @@ db.products.insertMany([
     categoryId: 12,
     tags: ["grocery", "fruit", "organic", "food"],
     stock: 300,
-    ratings: [4, 5, 5]
+    ratings: [4, 5, 5],
+    madeIn:"USA"
   }
 ]);
 
