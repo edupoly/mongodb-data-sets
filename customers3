@@ -1,0 +1,91 @@
+[
+  {
+    "_id": 1,
+    "name": "Alice",
+    "tags": ["urgent", "home", "finance"],
+    "orders": [
+      { "product": "Book", "quantity": 2, "price": 15 },
+      { "product": "Pen", "quantity": 5, "price": 3 }
+    ]
+  },
+  {
+    "_id": 2,
+    "name": "Bob",
+    "tags": ["office", "important"],
+    "orders": [
+      { "product": "Laptop", "quantity": 1, "price": 1200 },
+      { "product": "Mouse", "quantity": 1, "price": 25 }
+    ]
+  },
+  {
+    "_id": 3,
+    "name": "Claire",
+    "tags": ["home", "garden"],
+    "orders": [
+      { "product": "Lawnmower", "quantity": 1, "price": 300 }
+    ]
+  },
+  {
+    "_id": 4,
+    "name": "Derek",
+    "tags": ["urgent", "office"],
+    "orders": [
+      { "product": "Notebook", "quantity": 3, "price": 10 },
+      { "product": "Pen", "quantity": 10, "price": 2 },
+{ "product": "Laptop", "quantity": 10, "price": 1200 },
+    ]
+  },
+  {
+    "_id": 5,
+    "name": "Elena",
+    "tags": ["finance", "travel"],
+    "orders": [
+      { "product": "Flight Ticket", "quantity": 1, "price": 350 },
+      { "product": "Hotel", "quantity": 3, "price": 100 }
+    ]
+  },
+  {
+    "_id": 6,
+    "name": "Frank",
+    "tags": ["home", "urgent"],
+    "orders": [
+      { "product": "Sofa", "quantity": 1, "price": 450 }
+    ]
+  },
+  {
+    "_id": 7,
+    "name": "Grace",
+    "tags": ["office", "travel"],
+    "orders": [
+      { "product": "Laptop", "quantity": 2, "price": 1300 },
+      { "product": "Travel Bag", "quantity": 1, "price": 200 }
+    ]
+  },
+  {
+    "_id": 8,
+    "name": "Hank",
+    "tags": ["garden", "weekend"],
+    "orders": [
+      { "product": "Plants", "quantity": 10, "price": 5 },
+      { "product": "Fertilizer", "quantity": 2, "price": 20 }
+    ]
+  },
+  {
+    "_id": 9,
+    "name": "Isla",
+    "tags": ["weekend", "home"],
+    "orders": [
+      { "product": "Book", "quantity": 3, "price": 15 }
+    ]
+  },
+  {
+    "_id": 10,
+    "name": "Jack",
+    "tags": ["important", "finance"],
+    "orders": [
+      { "product": "Calculator", "quantity": 1, "price": 50 },
+      { "product": "Notebook", "quantity": 2, "price": 12 },
+{ "product": "Laptop", "quantity": 8, "price": 1200 },
+    ]
+  }
+]
