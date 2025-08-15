@@ -1,0 +1,36 @@
+[
+  {
+    "_id": 1,
+    "name": "Alice",
+    "email": "alice@example.com",
+    "age": 30,
+    "address": {
+      "street": "123 Maple St",
+      "city": "Springfield"
+    }
+  },
+  {
+    "_id": 2,
+    "name": "Bob",
+    "phone": "555-8765",
+    "age": "unknown"
+  },
+  {
+    "_id": 3,
+    "name": "Carlos",
+    "email": "carlos@example.com",
+    "age": 28,
+    "isActive": true
+  },
+  {
+    "_id": 4,
+    "name": "Diana",
+    "email": null,
+    "isActive": false
+  },
+  {
+    "_id": 5,
+    "name": "Emily",
+    "address": "456 Oak Ave"
+  }
+]
