@@ -1,5 +1,981 @@
-[
-{"category":"sport_and_leisure","id":"622a1c367cc59eab6f950045","correctAnswer":"Phil Hill","incorrectAnswers":["Mario Andretti","Lance Stroll","Dan Gurney"],"question":{"text":"Who was the first american to win the Formula 1 championship?"},"tags":["firsts","racing","motoring","people","sport"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"63a03983c7d86251f9b65c71","correctAnswer":"Checkers","incorrectAnswers":["Life","Monopoly","Scrabble"],"question":{"text":"Which of these is a board game where players must move pieces around a board in an effort to capture their opponent's pieces?"},"tags":["board_games"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"622a1c367cc59eab6f95007c","correctAnswer":"Hill","incorrectAnswers":["Schumacher","Hunt","Villeneuve"],"question":{"text":"What Surname Has Been Shared By Three Formula One Champions Of The 20th Century?"},"tags":["racing","names","sport"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"62417d3c0f96c4efe8d773b2","correctAnswer":"Miami Marlins","incorrectAnswers":["Miami Pelicans","Miami Islanders","Miami Bulls"],"question":{"text":"Which of these is a baseball team based in Miami?"},"tags":["sport"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"62399ed8af96521963a08709","correctAnswer":"Italy","incorrectAnswers":["Germany","Brazil","Spain"],"question":{"text":"Which country won the 2006 FIFA World Cup, hosted in Germany?"},"tags":["sport"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"63a0397cc7d86251f9b65c68","correctAnswer":"Trivial Pursuit","incorrectAnswers":["Life","Risk","Checkers"],"question":{"text":"What is the name of the classic board game where players must move pieces around a board and answer questions?"},"tags":["board_games"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"62417d480f96c4efe8d773b7","correctAnswer":"Milwaukee Bucks","incorrectAnswers":["Milwaukee Heat","Milwaukee Reds","Milwaukee Pirates"],"question":{"text":"Which of these is a basketball team based in Milwaukee?"},"tags":["sport"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"65056fa37a97013de78b548e","correctAnswer":"Contained","incorrectAnswers":["Carried","Coastal","Careful"],"question":{"text":"For what does the \"C\" in \"SCUBA diving\" stand?"},"tags":["sport_and_leisure","acronyms","initials"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"63dd25cd742e43ed64f1f01f","correctAnswer":"Marseille","incorrectAnswers":["Real Madrid","FC Schalke","Manchester United"],"question":{"text":"Which team won the first UEFA Champions League in 1992?"},"tags":["sport","soccer","football"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"sport_and_leisure","id":"622a1c367cc59eab6f950046","correctAnswer":"Jesse Owens","incorrectAnswers":["Carl Lewis","Bruce Jenner","Bob Beamon"],"question":{"text":"Who Was The First Athlete To Exceed a Distance Of Eight Metres In The Long Jump In 1935?"},"tags":["athletics","records","people","sport"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},
-{"category":"film_and_tv","id":"622a1c347cc59eab6f94fb3a","correctAnswer":"A Beautiful Mind","incorrectAnswers":["Gosford Park","In the Bedroom","The Lord of the Rings: The Fellowship of the Ring"],"question":{"text":"Which film won the Academy Award for Best Picture in 2001?"},"tags":["academy_awards","film","film_and_tv"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"film_and_tv","id":"622a1c377cc59eab6f950750","correctAnswer":"Charlton Heston","incorrectAnswers":["Dwayne Johnson","Shah Rukh Khan","Gérard Depardieu"],"question":{"text":"Which actor has featured in films including Ben-Hur and Dynasty?"},"tags":["film_and_tv"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"film_and_tv","id":"622a1c377cc59eab6f950715","correctAnswer":"Maggie Smith","incorrectAnswers":["Kathy Bates","Sandra Bæ Hovedr","Kirsten Dunst"],"question":{"text":"Which actress has starred in both Downton Abbey and the Harry Potter series of films?"},"tags":["acting","film_and_tv"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"film_and_tv","id":"622a1c347cc59eab6f94fbdd","correctAnswer":"\"It’s the sense of touch. In any real city, you walk, you know? You brush past people, people bump into you. In L.A., nobody touches you. We’re always behind this metal and glass. I think we miss that touch so much, that we crash into each other, just so we can feel something.\"","incorrectAnswers":["\"May the Force be with you.\"","\"Here's looking at you, kid.\"","\"What is this? A center for ants? How can we be expected to teach children to learn how to read…if they can’t even fit inside the building?\""],"question":{"text":"Which of these quotes is from the film 'Crash'?"},"tags":["quotes","film","film_and_tv"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"film_and_tv","id":"624dba0ade6018633d31f6b2","correctAnswer":"Daniel Craig","incorrectAnswers":["Timothy Dalton","Pierce Brosnan","Roger Moore"],"question":{"text":"Who played the role of James Bond in Quantum of Solace?"},"tags":["james_bond","film","acting","film_and_tv"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"film_and_tv","id":"622a1c377cc59eab6f950787","correctAnswer":"Alec Baldwin","incorrectAnswers":["Donald Sutherland","Gary Oldman","Sean Connery"],"question":{"text":"Which actor has featured in roles including 30 Rock and The Departed?"},"tags":["acting","film_and_tv"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"film_and_tv","id":"622a1c347cc59eab6f94fb55","correctAnswer":"The Godfather","incorrectAnswers":["Cabaret","Deliverance","The Emigrants"],"question":{"text":"Which film won the Academy Award for Best Picture in 1972?"},"tags":["academy_awards","film","film_and_tv"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"film_and_tv","id":"6463398e01d576cfac3aa388","correctAnswer":"The Jungle Book","incorrectAnswers":["The Lion King","Tarzan","Aladdin"],"question":{"text":"Which Disney film from 1967 features a tiger trying to eat a man-cub?"},"tags":["film_and_tv","film","disney"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"film_and_tv","id":"625698809da29df7b05f728b","correctAnswer":"Agent Phil Coulson","incorrectAnswers":["Wong","Dr. Bruce Banner","Nick Fury"],"question":{"text":"In the Marvel Cinematic Universe, which character is played by Clark Gregg?"},"tags":["mcu","film","acting","marvel","comics","film_and_tv"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"film_and_tv","id":"622a1c347cc59eab6f94fc1d","correctAnswer":"\"One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.\"","incorrectAnswers":["\"Soylent Green is people!\"","\"I’m going to have to science the s*** out of this.\"","\"Toto, I've a feeling we're not in Kansas anymore.\""],"question":{"text":"Which of these quotes is from the film 'Animal Crackers'?"},"tags":["quotes","film","film_and_tv"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},
-{"category":"science","id":"64f3a941601ffca0b7615ddb","correctAnswer":"Read Only Memory","incorrectAnswers":["Random Object Medium","Real Orchestration Mode","Rare Ownership Modifications"],"question":{"text":"What does the acronym 'ROM' stand for in computers?"},"tags":["computing","technology","acronyms","initials","science"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"science","id":"6462624aab138b829b81e9d8","correctAnswer":"Morse code","incorrectAnswers":["Binary code","ASCII code","Unicode"],"question":{"text":"What is the name of the communication method represented by a series of dots and dashes?"},"tags":["communication","technology","science","general_knowledge","language"],"type":"text_choice","difficulty":"easy","regions":[],"isNiche":false},{"category":"science","id":"622a1c3f7cc59eab6f952352","correctAnswer":"Southeast Asia","incorrectAnswers":["The Amazon","The European Steppes","Central America"],"question":{"text":"The Rafflesia Has The Largest Single Flower Of Any Plant In The World. Where In The World Does It Grow?"},"tags":["science"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"science","id":"648891824cd3f064f443dc13","correctAnswer":"Canis rufus","incorrectAnswers":["Canis lupus","Canis latrans","Canis aureus"],"question":{"text":"What is the scientific name for the red wolf?"},"tags":["animals","biology","latin","science"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"science","id":"622a1c3a7cc59eab6f95109b","correctAnswer":"Lobster","incorrectAnswers":["Sea Snake","Dolphin","Jellyfish"],"question":{"text":"The crayfish isn't a fish at all _ it is related to the __________"},"tags":["animals","science"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"science","id":"63d95328168979b94b2e4fac","correctAnswer":"Isaac Newton","incorrectAnswers":["Albert Einstein","Charles Darwin","Galileo Galilei"],"question":{"text":"Who developed the theory of universal gravitation?"},"tags":["science","scientific_discoveries"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"science","id":"622a1c3a7cc59eab6f950fec","correctAnswer":"Cheetah","incorrectAnswers":["Lion","Leopard","Puma"],"question":{"text":"Which Member Of The Cat Family Cannot Retract Its Claws?"},"tags":["science"],"type":"text_choice","difficulty":"hard","regions":[],"isNiche":false},{"category":"science","id":"622a1c3a7cc59eab6f951021","correctAnswer":"Carnivorous","incorrectAnswers":["Trap","Pitcher","Belljar"],"question":{"text":"What is the term for the group of plants that catch and digest insects?"},"tags":["science"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"science","id":"622a1c377cc59eab6f95052c","correctAnswer":"The Earth","incorrectAnswers":["Rocks","Pollen","Gemstones"],"question":{"text":"What is Geology the study of?"},"tags":["science","geology"],"type":"text_choice","difficulty":"medium","regions":[],"isNiche":false},{"category":"science","id":"622a1c3f7cc59eab6f9523ac","correctAnswer":"Amnesia","incorrectAnswers":["Insomnia","Coma","Kleptomania"],"question":{"text":"A loss of memory is known as what?"},"tags":["medicine","words","science"],"type":"text_choice","difficulty":"easy","regions":[],"isNiche":false}
-]
+[{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f47f"
+  },
+  "category": "film_and_tv",
+  "id": "625fd694dc0dd3b72da64cfb",
+  "correctAnswer": "1994",
+  "incorrectAnswers": [
+    "1986",
+    "1990",
+    "1998"
+  ],
+  "question": {
+    "text": "In which year was The Lion King released?"
+  },
+  "tags": [
+    "film",
+    "disney",
+    "film_and_tv"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f480"
+  },
+  "category": "film_and_tv",
+  "id": "63dd25ec742e43ed64f1f04c",
+  "correctAnswer": "Adrian Monk",
+  "incorrectAnswers": [
+    "Father Father",
+    "Monkus Punkus",
+    "The Monk"
+  ],
+  "question": {
+    "text": "What is the name of the character played by Tony Shalhoub on the show 'Monk'?"
+  },
+  "tags": [
+    "film_and_tv",
+    "tv",
+    "sitcoms"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f481"
+  },
+  "category": "film_and_tv",
+  "id": "622a1c347cc59eab6f94fb3d",
+  "correctAnswer": "Shakespeare in Love",
+  "incorrectAnswers": [
+    "Elizabeth",
+    "Life Is Beautiful",
+    "Saving Private Ryan"
+  ],
+  "question": {
+    "text": "Which film won the Academy Award for Best Picture in 1998?"
+  },
+  "tags": [
+    "academy_awards",
+    "film",
+    "film_and_tv"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f482"
+  },
+  "category": "film_and_tv",
+  "id": "624dba6ade6018633d31f6c5",
+  "correctAnswer": "Roger Moore",
+  "incorrectAnswers": [
+    "Sean Connery",
+    "George Lazenby",
+    "Daniel Craig"
+  ],
+  "question": {
+    "text": "Who played the role of James Bond in Live and Let Die?"
+  },
+  "tags": [
+    "james_bond",
+    "film",
+    "acting",
+    "film_and_tv"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f483"
+  },
+  "category": "film_and_tv",
+  "id": "622a1c367cc59eab6f9501f8",
+  "correctAnswer": "Peter Jackson",
+  "incorrectAnswers": [
+    "Steven Spielberg",
+    "Woody Allen",
+    "Martin Scorsese"
+  ],
+  "question": {
+    "text": "Which director directed The Lord of the Rings: The Return of the King?"
+  },
+  "tags": [
+    "fantasy",
+    "film_and_tv"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f484"
+  },
+  "category": "film_and_tv",
+  "id": "622a1c377cc59eab6f9505ce",
+  "correctAnswer": "Hilary Duff",
+  "incorrectAnswers": [
+    "Olivia Wilde",
+    "Madonna",
+    "Sophia Loren"
+  ],
+  "question": {
+    "text": "Which actress has played roles in both Gossip Girl and Ghost Whisperer?"
+  },
+  "tags": [
+    "film_and_tv"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f485"
+  },
+  "category": "film_and_tv",
+  "id": "622a1c347cc59eab6f94fbf0",
+  "correctAnswer": "\"Snap out of it!\"",
+  "incorrectAnswers": [
+    "\"I drink your milkshake. I drink it up.\"",
+    "\"Go ahead, make my day.\"",
+    "\"You're gonna need a bigger boat.\""
+  ],
+  "question": {
+    "text": "Which of these quotes is from the film 'Moonstruck'?"
+  },
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f486"
+  },
+  "category": "film_and_tv",
+  "id": "622a1c377cc59eab6f9506ec",
+  "correctAnswer": "Amy Adams",
+  "incorrectAnswers": [
+    "Penélope Cruz",
+    "Emma Thompson",
+    "Kirsten Dunst"
+  ],
+  "question": {
+    "text": "Which actress has starred in both Batman v Superman: Dawn of Justice and American Hustle?"
+  },
+  "tags": [
+    "film_and_tv",
+    "acting",
+    "film"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f487"
+  },
+  "category": "film_and_tv",
+  "id": "625740439da29df7b05f73d0",
+  "correctAnswer": "Lock, Stock and Two Smoking Barrels",
+  "incorrectAnswers": [
+    "La Haine",
+    "The Deer Hunter",
+    "Dead Poets Society"
+  ],
+  "question": {
+    "text": "Name the movie that matches the following plot summary: 'Eddy has a week to pay back £500,000 after losing a poker game to a powerful local mobster.'"
+  },
+  "tags": [
+    "film",
+    "film_and_tv"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aeb86e7ff9ce90cd2f488"
+  },
+  "category": "film_and_tv",
+  "id": "622a1c3d7cc59eab6f951c96",
+  "correctAnswer": "Michael Caine",
+  "incorrectAnswers": [
+    "Patrick Stewart",
+    "Christopher Lee",
+    "Daniel Day Lewis"
+  ],
+  "question": {
+    "text": "Which Oscar Winning Actor Played Scrooge In \"The Muppet Christmas Carol\"?"
+  },
+  "tags": [
+    "film_and_tv"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d2f"
+  },
+  "category": "science",
+  "id": "6396ed6f6017b1e8e09020d0",
+  "correctAnswer": "What Hath God Wrought?",
+  "incorrectAnswers": [
+    "Testing Testing Testing",
+    "Good Morning Victory ",
+    "You Smell"
+  ],
+  "question": {
+    "text": "What was the first ever message sent via morse code?"
+  },
+  "tags": [
+    "history",
+    "technology",
+    "firsts",
+    "inventions"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d30"
+  },
+  "category": "science",
+  "id": "622a1c377cc59eab6f95050f",
+  "correctAnswer": "fish",
+  "incorrectAnswers": [
+    "a variant of physiognomy",
+    "oceans",
+    "the Islam"
+  ],
+  "question": {
+    "text": "What is Ichthyology the study of?"
+  },
+  "tags": [
+    "science"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d31"
+  },
+  "category": "science",
+  "id": "6242cb78d543524f1b19c931",
+  "correctAnswer": "A flock",
+  "incorrectAnswers": [
+    "A labour",
+    "A murmuration",
+    "A rag"
+  ],
+  "question": {
+    "text": "What is the word for a group of pigeons?"
+  },
+  "tags": [
+    "animals",
+    "birds",
+    "science"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d32"
+  },
+  "category": "science",
+  "id": "622a1c3a7cc59eab6f9510c5",
+  "correctAnswer": "Lung",
+  "incorrectAnswers": [
+    "Heart",
+    "Liver",
+    "Brain"
+  ],
+  "question": {
+    "text": "In which organ is a pulmonary disease located?"
+  },
+  "tags": [
+    "science"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d33"
+  },
+  "category": "science",
+  "id": "622a1c3a7cc59eab6f951060",
+  "correctAnswer": "Transformer",
+  "incorrectAnswers": [
+    "Resister",
+    "Capacitor",
+    "Micrometer"
+  ],
+  "question": {
+    "text": "What Electrical Device Can Change The Magnitude Of Voltage Or Current"
+  },
+  "tags": [
+    "science"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d34"
+  },
+  "category": "science",
+  "id": "6242cb4fd543524f1b19c921",
+  "correctAnswer": "A troop",
+  "incorrectAnswers": [
+    "A nest",
+    "A down",
+    "A bevy"
+  ],
+  "question": {
+    "text": "What is the word for a group of kangaroos?"
+  },
+  "tags": [
+    "animals",
+    "australia",
+    "science"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d35"
+  },
+  "category": "science",
+  "id": "63e13a03106de6ffa7d4a779",
+  "correctAnswer": "Ear",
+  "incorrectAnswers": [
+    "Hand",
+    "Foot",
+    "Knee"
+  ],
+  "question": {
+    "text": "Where is the smallest bone in the human body located?"
+  },
+  "tags": [
+    "science",
+    "biology",
+    "anatomy",
+    "medicine"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d36"
+  },
+  "category": "science",
+  "id": "6477ba9d550bc819ad646aeb",
+  "correctAnswer": "Sequoia",
+  "incorrectAnswers": [
+    "Redbud",
+    "Oak",
+    "Maple"
+  ],
+  "question": {
+    "text": "What is the name of the tree that can reach up to 350 feet tall and is named after a region in California?"
+  },
+  "tags": [
+    "nature",
+    "trees",
+    "california",
+    "science"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d37"
+  },
+  "category": "science",
+  "id": "622a1c3f7cc59eab6f952393",
+  "correctAnswer": "Herpetologist",
+  "incorrectAnswers": [
+    "Entomologist",
+    "Barologist",
+    "Seismologist"
+  ],
+  "question": {
+    "text": "What is a scientist who studies reptiles and amphibians known as?"
+  },
+  "tags": [
+    "science"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aebf7faa5313341b09d38"
+  },
+  "category": "science",
+  "id": "622a1c3a7cc59eab6f951021",
+  "correctAnswer": "Carnivorous",
+  "incorrectAnswers": [
+    "Trap",
+    "Pitcher",
+    "Belljar"
+  ],
+  "question": {
+    "text": "What is the term for the group of plants that catch and digest insects?"
+  },
+  "tags": [
+    "science"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d39"
+  },
+  "category": "sport_and_leisure",
+  "id": "62417d890f96c4efe8d773d1",
+  "correctAnswer": "Phoenix Suns",
+  "incorrectAnswers": [
+    "Phoenix Union",
+    "Phoenix Heat",
+    "Phoenix Bears"
+  ],
+  "question": {
+    "text": "Which of these is a basketball team based in Phoenix?"
+  },
+  "tags": [
+    "basketball",
+    "nba",
+    "usa",
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d3a"
+  },
+  "category": "sport_and_leisure",
+  "id": "62399ee8af96521963a0870b",
+  "correctAnswer": "France",
+  "incorrectAnswers": [
+    "Russia",
+    "South Africa",
+    "Germany"
+  ],
+  "question": {
+    "text": "Which country hosted the 1998 FIFA World Cup?"
+  },
+  "tags": [
+    "soccer",
+    "football",
+    "world_cup",
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d3b"
+  },
+  "category": "sport_and_leisure",
+  "id": "622a1c347cc59eab6f94f8a0",
+  "correctAnswer": "Boxing",
+  "incorrectAnswers": [
+    "Cricket",
+    "Rugby Union",
+    "Ice Hockey"
+  ],
+  "question": {
+    "text": "With which sport is Manny Pacquiao associated?"
+  },
+  "tags": [
+    "people",
+    "general_knowledge",
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "easy",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d3c"
+  },
+  "category": "sport_and_leisure",
+  "id": "62399f08af96521963a08713",
+  "correctAnswer": "West Germany",
+  "incorrectAnswers": [
+    "France",
+    "United States",
+    "Mexico"
+  ],
+  "question": {
+    "text": "Which country hosted the 1974 FIFA World Cup?"
+  },
+  "tags": [
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d3d"
+  },
+  "category": "sport_and_leisure",
+  "id": "6242e835a22452794eaef208",
+  "correctAnswer": "The Saints",
+  "incorrectAnswers": [
+    "The Bees",
+    "The Clarets",
+    "The Citizens"
+  ],
+  "question": {
+    "text": "What is the nickname of the English football team Southampton?"
+  },
+  "tags": [
+    "uk",
+    "football",
+    "soccer",
+    "southampton",
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d3e"
+  },
+  "category": "sport_and_leisure",
+  "id": "645fcc89541c4d4fc8cf3089",
+  "correctAnswer": "6",
+  "incorrectAnswers": [
+    "4",
+    "8",
+    "10"
+  ],
+  "question": {
+    "text": "How many pockets are on a regulation pool table?"
+  },
+  "tags": [
+    "sport",
+    "games"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d3f"
+  },
+  "category": "sport_and_leisure",
+  "id": "64730759cf09068746f63758",
+  "correctAnswer": "The Triple Jump",
+  "incorrectAnswers": [
+    "Long Jump",
+    "High Jump",
+    "Pole Vault"
+  ],
+  "question": {
+    "text": "Which athletics event consists of two hops and a jump?"
+  },
+  "tags": [
+    "olympics",
+    "track_and_field",
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "easy",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d40"
+  },
+  "category": "sport_and_leisure",
+  "id": "62417da70f96c4efe8d773dc",
+  "correctAnswer": "San Jose Sharks",
+  "incorrectAnswers": [
+    "San Jose United",
+    "San Jose Bills",
+    "San Jose Flames"
+  ],
+  "question": {
+    "text": "Which of these is a hockey team based in San Jose?"
+  },
+  "tags": [
+    "hockey",
+    "usa",
+    "nhl",
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d41"
+  },
+  "category": "sport_and_leisure",
+  "id": "622a1c347cc59eab6f94f890",
+  "correctAnswer": "Golf",
+  "incorrectAnswers": [
+    "Cricket",
+    "Badminton",
+    "Surfing"
+  ],
+  "question": {
+    "text": "With which sport is Seve Ballesteros associated?"
+  },
+  "tags": [
+    "people",
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aecfffaa5313341b09d42"
+  },
+  "category": "sport_and_leisure",
+  "id": "622a1c367cc59eab6f95008b",
+  "correctAnswer": "Super heavyweight",
+  "incorrectAnswers": [
+    "Flyweight",
+    "Heavyweight",
+    "Maxweight"
+  ],
+  "question": {
+    "text": "What is the heaviest class of weight-lifting?"
+  },
+  "tags": [
+    "olympics",
+    "sport"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d43"
+  },
+  "category": "music",
+  "id": "622a1c397cc59eab6f950d45",
+  "correctAnswer": "Black Eyed Peas",
+  "incorrectAnswers": [
+    "MercyMe",
+    "Three 6 Mafia",
+    "The Velvet Underground"
+  ],
+  "question": {
+    "text": "Which band includes 'will.i.am'?"
+  },
+  "tags": [
+    "music"
+  ],
+  "type": "text_choice",
+  "difficulty": "easy",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d44"
+  },
+  "category": "music",
+  "id": "622a1c387cc59eab6f950b20",
+  "correctAnswer": "Spice Girls",
+  "incorrectAnswers": [
+    "The Supremes",
+    "TLC",
+    "All Saints"
+  ],
+  "question": {
+    "text": "Which band was Geri Halliwell a member of?"
+  },
+  "tags": [
+    "people",
+    "music",
+    "pop_music",
+    "bands"
+  ],
+  "type": "text_choice",
+  "difficulty": "easy",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d45"
+  },
+  "category": "music",
+  "id": "6477ba5c550bc819ad646a8a",
+  "correctAnswer": "David Bowie",
+  "incorrectAnswers": [
+    "Elton John",
+    "Freddie Mercury",
+    "Jim Morrison"
+  ],
+  "question": {
+    "text": "Which musician wrote the lyrics 'Am I sitting in a tin can? Far above the world, planet Earth is blue and there's nothing I can do'?"
+  },
+  "tags": [
+    "lyrics",
+    "songs",
+    "music"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d46"
+  },
+  "category": "music",
+  "id": "622a1c3c7cc59eab6f95198e",
+  "correctAnswer": "Ladies Love Cool James",
+  "incorrectAnswers": [
+    "Live Laugh Cool Jokes",
+    "Little Lean Cool Jams",
+    "Look Look Cool Jives"
+  ],
+  "question": {
+    "text": "What does LL Cool J.'s name stand for?"
+  },
+  "tags": [
+    "pseudonyms",
+    "music"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d47"
+  },
+  "category": "music",
+  "id": "636a5265990390307063f394",
+  "correctAnswer": "Girl, You'll Be a Woman Soon",
+  "incorrectAnswers": [
+    "Twist and Shout",
+    "Landslide",
+    "American Woman"
+  ],
+  "question": {
+    "text": "Which song was originally recorded by Neil Diamond and was later covered by Urge Overkill?"
+  },
+  "tags": [
+    "music",
+    "cover_song",
+    "songs",
+    "musicians"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d48"
+  },
+  "category": "music",
+  "id": "622a1c357cc59eab6f94ffce",
+  "correctAnswer": "Aswad",
+  "incorrectAnswers": [
+    "Abrah",
+    "Salar",
+    "Jawab"
+  ],
+  "question": {
+    "text": "Which pop group took their name from the Arabic word for black?"
+  },
+  "tags": [
+    "words",
+    "music"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d49"
+  },
+  "category": "music",
+  "id": "622a1c347cc59eab6f94fb9a",
+  "correctAnswer": "\"Basket Case\" by Green Day",
+  "incorrectAnswers": [
+    "\"Hooked on a Feeling\" by B.J. Thomas",
+    "\"American Pie\" by Don McLean",
+    "\"Gangsta's Paradise\" by Coolio feat. L.V."
+  ],
+  "question": {
+    "text": "Which song begins with the lyrics: \"Do you have the time to listen to me whine...\"?"
+  },
+  "tags": [
+    "songs",
+    "lyrics",
+    "music"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d4a"
+  },
+  "category": "music",
+  "id": "622a1c397cc59eab6f950d29",
+  "correctAnswer": "The Beatles",
+  "incorrectAnswers": [
+    "Deep Purple",
+    "Feeder",
+    "Uriah Heep"
+  ],
+  "question": {
+    "text": "Which English rock band released the song 'Let It Be'?"
+  },
+  "tags": [
+    "songs",
+    "general_knowledge",
+    "music"
+  ],
+  "type": "text_choice",
+  "difficulty": "medium",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d4b"
+  },
+  "category": "music",
+  "id": "622a1c397cc59eab6f950c46",
+  "correctAnswer": "The Beach Boys",
+  "incorrectAnswers": [
+    "Swans",
+    "Three 6 Mafia",
+    "The Velvet Underground"
+  ],
+  "question": {
+    "text": "Which American rock band released the studio album 'Smiley Smile'?"
+  },
+  "tags": [
+    "music"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+},
+{
+  "_id": {
+    "$oid": "690aed68faa5313341b09d4c"
+  },
+  "category": "music",
+  "id": "622a1c397cc59eab6f950c90",
+  "correctAnswer": "The Rolling Stones",
+  "incorrectAnswers": [
+    "McFly",
+    "Delirious?",
+    "Depeche Mode"
+  ],
+  "question": {
+    "text": "Which English rock band released the song 'Brown Sugar'?"
+  },
+  "tags": [
+    "music"
+  ],
+  "type": "text_choice",
+  "difficulty": "hard",
+  "regions": [],
+  "isNiche": false
+}]
