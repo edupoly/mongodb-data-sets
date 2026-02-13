@@ -1,0 +1,72 @@
+[
+  {
+    "firstname": "Arjun",
+    "lastname": "Mehta",
+    "age": 28,
+    "gender": "Male",
+    "place": "Mumbai, India"
+  },
+  {
+    "firstname": "Elena",
+    "lastname": "Rodriguez",
+    "age": 34,
+    "gender": "Female",
+    "place": "Madrid, Spain"
+  },
+  {
+    "firstname": "Kaito",
+    "lastname": "Tanaka",
+    "age": 22,
+    "gender": "Male",
+    "place": "Tokyo, Japan"
+  },
+  {
+    "firstname": "Sarah",
+    "lastname": "Jenkins",
+    "age": 45,
+    "gender": "Female",
+    "place": "Chicago, USA"
+  },
+  {
+    "firstname": "Amara",
+    "lastname": "Okonkwo",
+    "age": 31,
+    "gender": "Female",
+    "place": "Lagos, Nigeria"
+  },
+  {
+    "firstname": "Luca",
+    "lastname": "Bianchi",
+    "age": 29,
+    "gender": "Non-binary",
+    "place": "Rome, Italy"
+  },
+  {
+    "firstname": "Chloe",
+    "lastname": "Dupont",
+    "age": 26,
+    "gender": "Female",
+    "place": "Paris, France"
+  },
+  {
+    "firstname": "Marcus",
+    "lastname": "Schmidt",
+    "age": 52,
+    "gender": "Male",
+    "place": "Berlin, Germany"
+  },
+  {
+    "firstname": "Li",
+    "lastname": "Wei",
+    "age": 39,
+    "gender": "Male",
+    "place": "Shanghai, China"
+  },
+  {
+    "firstname": "Sofia",
+    "lastname": "Silva",
+    "age": 27,
+    "gender": "Female",
+    "place": "Rio de Janeiro, Brazil"
+  }
+]
