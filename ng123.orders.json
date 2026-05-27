@@ -1,0 +1,352 @@
+[{
+  "_id": 1,
+  "customer": "Alice",
+  "item": "Laptop",
+  "price": 1200,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "work"
+  ]
+},
+{
+  "_id": 2,
+  "customer": "Bob",
+  "item": "Mouse",
+  "price": 25,
+  "quantity": 2,
+  "date": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "accessories"
+  ]
+},
+{
+  "_id": 3,
+  "customer": "Charlie",
+  "item": "Keyboard",
+  "price": 75,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "accessories"
+  ]
+},
+{
+  "_id": 4,
+  "customer": "Alice",
+  "item": "Monitor",
+  "price": 300,
+  "quantity": 2,
+  "date": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "work"
+  ]
+},
+{
+  "_id": 5,
+  "customer": "Bob",
+  "item": "Webcam",
+  "price": 50,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-22T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "streaming"
+  ]
+},
+{
+  "_id": 6,
+  "customer": "David",
+  "item": "Desk Chair",
+  "price": 150,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-22T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "furniture"
+  ]
+},
+{
+  "_id": 7,
+  "customer": "Eve",
+  "item": "USB Hub",
+  "price": 20,
+  "quantity": 3,
+  "date": {
+    "$date": "2025-09-23T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "accessories"
+  ]
+},
+{
+  "_id": 8,
+  "customer": "Frank",
+  "item": "Coffee Mug",
+  "price": 15,
+  "quantity": 5,
+  "date": {
+    "$date": "2025-09-23T00:00:00.000Z"
+  },
+  "tags": [
+    "kitchen",
+    "office"
+  ]
+},
+{
+  "_id": 9,
+  "customer": "Alice",
+  "item": "Docking Station",
+  "price": 250,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-24T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "work"
+  ]
+},
+{
+  "_id": 10,
+  "customer": "Grace",
+  "item": "Notebook",
+  "price": 5,
+  "quantity": 10,
+  "date": {
+    "$date": "2025-09-24T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "stationery"
+  ]
+},
+{
+  "_id": 11,
+  "customer": "Bob",
+  "item": "Headphones",
+  "price": 150,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "audio"
+  ]
+},
+{
+  "_id": 12,
+  "customer": "David",
+  "item": "Desk Lamp",
+  "price": 40,
+  "quantity": 2,
+  "date": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "lighting"
+  ]
+},
+{
+  "_id": 13,
+  "customer": "Charlie",
+  "item": "Mouse Pad",
+  "price": 10,
+  "quantity": 3,
+  "date": {
+    "$date": "2025-09-26T00:00:00.000Z"
+  },
+  "tags": [
+    "accessories"
+  ]
+},
+{
+  "_id": 14,
+  "customer": "Eve",
+  "item": "External SSD",
+  "price": 200,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-26T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "storage"
+  ]
+},
+{
+  "_id": 15,
+  "customer": "Frank",
+  "item": "Pen Set",
+  "price": 25,
+  "quantity": 2,
+  "date": {
+    "$date": "2025-09-27T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "stationery"
+  ]
+},
+{
+  "_id": 16,
+  "customer": "Alice",
+  "item": "Laptop Stand",
+  "price": 45,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-27T00:00:00.000Z"
+  },
+  "tags": [
+    "accessories",
+    "work"
+  ]
+},
+{
+  "_id": 17,
+  "customer": "Grace",
+  "item": "Stapler",
+  "price": 12,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-28T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "stationery"
+  ]
+},
+{
+  "_id": 18,
+  "customer": "David",
+  "item": "Filing Cabinet",
+  "price": 220,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-28T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "furniture",
+    "storage"
+  ]
+},
+{
+  "_id": 19,
+  "customer": "Bob",
+  "item": "Microphone",
+  "price": 120,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-29T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "audio",
+    "streaming"
+  ]
+},
+{
+  "_id": 20,
+  "customer": "Eve",
+  "item": "Power Strip",
+  "price": 22,
+  "quantity": 2,
+  "date": {
+    "$date": "2025-09-29T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "accessories"
+  ]
+},
+{
+  "_id": 21,
+  "customer": "Frank",
+  "item": "Whiteboard",
+  "price": 60,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-30T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "work"
+  ]
+},
+{
+  "_id": 22,
+  "customer": "Charlie",
+  "item": "Ergonomic Keyboard",
+  "price": 130,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-09-30T00:00:00.000Z"
+  },
+  "tags": [
+    "electronics",
+    "accessories",
+    "work"
+  ]
+},
+{
+  "_id": 23,
+  "customer": "Grace",
+  "item": "Paper Shredder",
+  "price": 80,
+  "quantity": 1,
+  "date": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "electronics"
+  ]
+},
+{
+  "_id": 24,
+  "customer": "Alice",
+  "item": "Printer Paper",
+  "price": 30,
+  "quantity": 4,
+  "date": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "tags": [
+    "office",
+    "stationery"
+  ]
+},
+{
+  "_id": 25,
+  "customer": "David",
+  "item": "Monitor Arm",
+  "price": 90,
+  "quantity": 2,
+  "date": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "tags": [
+    "accessories",
+    "work"
+  ]
+}]

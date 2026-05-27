@@ -1,0 +1,776 @@
+[{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc60"
+  },
+  "name": "Aarav Sharma",
+  "department": "Engineering",
+  "jobTitle": "Software Engineer",
+  "salary": 90000,
+  "hireDate": {
+    "$date": "2022-08-15T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Project Phoenix",
+    "Project Griffin"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc61"
+  },
+  "name": "Priya Singh",
+  "department": "Engineering",
+  "jobTitle": "Sr. Software Engineer",
+  "salary": 120000,
+  "hireDate": {
+    "$date": "2020-05-20T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Project Phoenix",
+    "Project Dragon"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc62"
+  },
+  "name": "Rohan Mehta",
+  "department": "Sales",
+  "jobTitle": "Sales Manager",
+  "salary": 110000,
+  "hireDate": {
+    "$date": "2019-11-01T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Q3 Sales Drive"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc63"
+  },
+  "name": "Sneha Gupta",
+  "department": "Marketing",
+  "jobTitle": "Marketing Specialist",
+  "salary": 75000,
+  "hireDate": {
+    "$date": "2023-01-10T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Brand Relaunch"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc64"
+  },
+  "name": "Vikram Kumar",
+  "department": "Engineering",
+  "jobTitle": "DevOps Engineer",
+  "salary": 105000,
+  "hireDate": {
+    "$date": "2021-03-12T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Infrastructure Overhaul"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc65"
+  },
+  "name": "Anjali Reddy",
+  "department": "HR",
+  "jobTitle": "HR Generalist",
+  "salary": 65000,
+  "hireDate": {
+    "$date": "2022-09-01T00:00:00.000Z"
+  },
+  "performanceScore": 3,
+  "projects": [
+    "New Hire Onboarding"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc66"
+  },
+  "name": "Karan Verma",
+  "department": "Sales",
+  "jobTitle": "Sales Associate",
+  "salary": 60000,
+  "hireDate": {
+    "$date": "2023-06-25T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Q3 Sales Drive",
+    "Lead Generation Campaign"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc67"
+  },
+  "name": "Diya Joshi",
+  "department": "Engineering",
+  "jobTitle": "QA Engineer",
+  "salary": 85000,
+  "hireDate": {
+    "$date": "2022-02-18T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Project Phoenix",
+    "Project Griffin"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc68"
+  },
+  "name": "Arjun Desai",
+  "department": "Marketing",
+  "jobTitle": "Content Creator",
+  "salary": 70000,
+  "hireDate": {
+    "$date": "2021-07-30T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Brand Relaunch",
+    "Social Media Push"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc69"
+  },
+  "name": "Neha Patel",
+  "department": "Engineering",
+  "jobTitle": "Software Engineer",
+  "salary": 92000,
+  "hireDate": {
+    "$date": "2023-03-05T00:00:00.000Z"
+  },
+  "performanceScore": 3,
+  "projects": [
+    "Project Dragon"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc6a"
+  },
+  "name": "Aditya Rao",
+  "department": "Sales",
+  "jobTitle": "Sales Associate",
+  "salary": 62000,
+  "hireDate": {
+    "$date": "2022-11-15T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Lead Generation Campaign"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc6b"
+  },
+  "name": "Ishaan Jain",
+  "department": "Engineering",
+  "jobTitle": "UI/UX Designer",
+  "salary": 95000,
+  "hireDate": {
+    "$date": "2020-09-01T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Project Phoenix",
+    "Brand Relaunch"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc6c"
+  },
+  "name": "Saanvi Iyer",
+  "department": "HR",
+  "jobTitle": "Recruiter",
+  "salary": 70000,
+  "hireDate": {
+    "$date": "2021-04-22T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Tech Hiring Drive"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc6d"
+  },
+  "name": "Vivaan Singh",
+  "department": "Engineering",
+  "jobTitle": "Software Engineer",
+  "salary": 91000,
+  "hireDate": {
+    "$date": "2022-10-10T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Project Griffin"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc6e"
+  },
+  "name": "Myra Agarwal",
+  "department": "Marketing",
+  "jobTitle": "SEO Analyst",
+  "salary": 78000,
+  "hireDate": {
+    "$date": "2023-02-20T00:00:00.000Z"
+  },
+  "performanceScore": 3,
+  "projects": [
+    "Social Media Push"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc6f"
+  },
+  "name": "Kabir Khan",
+  "department": "Engineering",
+  "jobTitle": "Database Administrator",
+  "salary": 115000,
+  "hireDate": {
+    "$date": "2019-08-14T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Infrastructure Overhaul"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc70"
+  },
+  "name": "Zara Ali",
+  "department": "Sales",
+  "jobTitle": "Account Executive",
+  "salary": 80000,
+  "hireDate": {
+    "$date": "2021-01-05T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Q3 Sales Drive"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc71"
+  },
+  "name": "Aryan Nair",
+  "department": "Engineering",
+  "jobTitle": "Frontend Developer",
+  "salary": 98000,
+  "hireDate": {
+    "$date": "2021-06-19T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Project Dragon",
+    "Brand Relaunch"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc72"
+  },
+  "name": "Kiara Menon",
+  "department": "HR",
+  "jobTitle": "HR Manager",
+  "salary": 100000,
+  "hireDate": {
+    "$date": "2018-03-12T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "New Hire Onboarding",
+    "Tech Hiring Drive"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc73"
+  },
+  "name": "Reyansh Gupta",
+  "department": "Marketing",
+  "jobTitle": "Marketing Manager",
+  "salary": 115000,
+  "hireDate": {
+    "$date": "2020-02-15T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Brand Relaunch",
+    "Social Media Push"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc74"
+  },
+  "name": "Aanya Sharma",
+  "department": "Engineering",
+  "jobTitle": "Software Engineer",
+  "salary": 88000,
+  "hireDate": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  },
+  "performanceScore": 3,
+  "projects": [
+    "Project Phoenix"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc75"
+  },
+  "name": "Shaurya Patel",
+  "department": "Sales",
+  "jobTitle": "Sales Associate",
+  "salary": 63000,
+  "hireDate": {
+    "$date": "2023-08-10T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Lead Generation Campaign"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc76"
+  },
+  "name": "Advait Reddy",
+  "department": "Engineering",
+  "jobTitle": "Cloud Engineer",
+  "salary": 112000,
+  "hireDate": {
+    "$date": "2021-09-05T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Infrastructure Overhaul"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc77"
+  },
+  "name": "Anika Desai",
+  "department": "Marketing",
+  "jobTitle": "Graphic Designer",
+  "salary": 72000,
+  "hireDate": {
+    "$date": "2022-04-14T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Brand Relaunch"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc78"
+  },
+  "name": "Dhruv Kumar",
+  "department": "HR",
+  "jobTitle": "HR Assistant",
+  "salary": 55000,
+  "hireDate": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "performanceScore": 3,
+  "projects": [
+    "New Hire Onboarding"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc79"
+  },
+  "name": "Fatima Begum",
+  "department": "Engineering",
+  "jobTitle": "Sr. Software Engineer",
+  "salary": 125000,
+  "hireDate": {
+    "$date": "2019-06-11T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Project Phoenix",
+    "Project Dragon"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc7a"
+  },
+  "name": "Gopal Varma",
+  "department": "Sales",
+  "jobTitle": "Sales Manager",
+  "salary": 112000,
+  "hireDate": {
+    "$date": "2018-10-21T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Q4 Sales Strategy"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc7b"
+  },
+  "name": "Harini Rao",
+  "department": "Marketing",
+  "jobTitle": "Digital Marketer",
+  "salary": 78000,
+  "hireDate": {
+    "$date": "2022-01-15T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Social Media Push"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc7c"
+  },
+  "name": "Imran Khan",
+  "department": "Engineering",
+  "jobTitle": "DevOps Engineer",
+  "salary": 108000,
+  "hireDate": {
+    "$date": "2020-08-01T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Infrastructure Overhaul",
+    "Project Griffin"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc7d"
+  },
+  "name": "Jaya Nair",
+  "department": "HR",
+  "jobTitle": "Recruiter",
+  "salary": 72000,
+  "hireDate": {
+    "$date": "2023-04-01T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Tech Hiring Drive"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc7e"
+  },
+  "name": "Krishna Murthy",
+  "department": "Sales",
+  "jobTitle": "Account Executive",
+  "salary": 82000,
+  "hireDate": {
+    "$date": "2020-11-30T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Q4 Sales Strategy"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc7f"
+  },
+  "name": "Lakshmi Devi",
+  "department": "Engineering",
+  "jobTitle": "QA Engineer",
+  "salary": 87000,
+  "hireDate": {
+    "$date": "2021-02-10T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Project Dragon"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc80"
+  },
+  "name": "Manish Tiwari",
+  "department": "Marketing",
+  "jobTitle": "Content Strategist",
+  "salary": 95000,
+  "hireDate": {
+    "$date": "2019-07-18T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Brand Relaunch"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc81"
+  },
+  "name": "Naina Reddy",
+  "department": "Engineering",
+  "jobTitle": "Software Engineer",
+  "salary": 93000,
+  "hireDate": {
+    "$date": "2023-05-25T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Project Griffin"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc82"
+  },
+  "name": "Omar Abdullah",
+  "department": "Sales",
+  "jobTitle": "Sales Associate",
+  "salary": 65000,
+  "hireDate": {
+    "$date": "2022-07-19T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Lead Generation Campaign"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc83"
+  },
+  "name": "Parvati Chauhan",
+  "department": "Engineering",
+  "jobTitle": "UI/UX Designer",
+  "salary": 98000,
+  "hireDate": {
+    "$date": "2021-12-01T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Project Dragon"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc84"
+  },
+  "name": "Qadir Ali",
+  "department": "HR",
+  "jobTitle": "HR Generalist",
+  "salary": 68000,
+  "hireDate": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "New Hire Onboarding"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc85"
+  },
+  "name": "Rani Mukherjee",
+  "department": "Engineering",
+  "jobTitle": "Frontend Developer",
+  "salary": 102000,
+  "hireDate": {
+    "$date": "2022-06-15T00:00:00.000Z"
+  },
+  "performanceScore": 3,
+  "projects": [
+    "Brand Relaunch"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc86"
+  },
+  "name": "Suresh Kumar",
+  "department": "Marketing",
+  "jobTitle": "SEO Analyst",
+  "salary": 80000,
+  "hireDate": {
+    "$date": "2023-01-20T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Social Media Push"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc87"
+  },
+  "name": "Tara Chand",
+  "department": "Sales",
+  "jobTitle": "Sales Associate",
+  "salary": 61000,
+  "hireDate": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  },
+  "performanceScore": 3,
+  "projects": [
+    "Lead Generation Campaign"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc88"
+  },
+  "name": "Umar Farooq",
+  "department": "Engineering",
+  "jobTitle": "Database Administrator",
+  "salary": 118000,
+  "hireDate": {
+    "$date": "2020-04-18T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Infrastructure Overhaul"
+  ],
+  "location": "Delhi"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc89"
+  },
+  "name": "Vidya Balan",
+  "department": "HR",
+  "jobTitle": "HR Assistant",
+  "salary": 58000,
+  "hireDate": {
+    "$date": "2022-12-10T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Tech Hiring Drive"
+  ],
+  "location": "Hyderabad"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc8a"
+  },
+  "name": "Wasim Akram",
+  "department": "Engineering",
+  "jobTitle": "Cloud Engineer",
+  "salary": 115000,
+  "hireDate": {
+    "$date": "2021-11-11T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Project Phoenix"
+  ],
+  "location": "Bengaluru"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc8b"
+  },
+  "name": "Yasmin Kaur",
+  "department": "Marketing",
+  "jobTitle": "Graphic Designer",
+  "salary": 74000,
+  "hireDate": {
+    "$date": "2023-03-30T00:00:00.000Z"
+  },
+  "performanceScore": 4,
+  "projects": [
+    "Brand Relaunch"
+  ],
+  "location": "Mumbai"
+},
+{
+  "_id": {
+    "$oid": "69f02b4bbb54519ae483cc8c"
+  },
+  "name": "Zainab Ansari",
+  "department": "Engineering",
+  "jobTitle": "Software Engineer",
+  "salary": 95000,
+  "hireDate": {
+    "$date": "2022-05-05T00:00:00.000Z"
+  },
+  "performanceScore": 5,
+  "projects": [
+    "Project Dragon"
+  ],
+  "location": "Delhi"
+}]
