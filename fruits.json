@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Apple",
+    "price": 120,
+    "calories": 52,
+    "protine": 0.3
+  },
+  {
+    "name": "Banana",
+    "price": 80,
+    "calories": 89,
+    "protine": 1.1
+  },
+  {
+    "name": "Orange",
+    "price": 100,
+    "calories": 47,
+    "protine": 0.9
+  },
+  {
+    "name": "Grapes",
+    "price": 150,
+    "calories": 67,
+    "protine": 0.7
+  },
+  {
+    "name": "Mango",
+    "price": 180,
+    "calories": 60,
+    "protine": 0.8
+  },
+  {
+    "name": "Strawberry",
+    "price": 200,
+    "calories": 32,
+    "protine": 0.7
+  },
+  {
+    "name": "Pineapple",
+    "price": 140,
+    "calories": 50,
+    "protine": 0.5
+  },
+  {
+    "name": "Watermelon",
+    "price": 90,
+    "calories": 30,
+    "protine": 0.6
+  },
+  {
+    "name": "Papaya",
+    "price": 110,
+    "calories": 43,
+    "protine": 0.5
+  },
+  {
+    "name": "Blueberry",
+    "price": 250,
+    "calories": 57,
+    "protine": 0.7
+  }
+]
