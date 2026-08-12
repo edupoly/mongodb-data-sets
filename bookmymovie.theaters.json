@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68ce78fe49ee2547c019e991"
+  },
+  "name": "PVR Cinemas",
+  "address": "MG Road",
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "zip_code": "560001",
+  "latitude": 12.9716,
+  "longitude": 77.5946,
+  "contact_info": "080-12345678",
+  "screens": 5,
+  "facilities": [
+    "Dolby Atmos",
+    "3D",
+    "Food Court"
+  ],
+  "manager_id": "manager123",
+  "dates": [],
+  "shows": [
+    "68ce844da4904a08757be30e",
+    "68d130417add1f18c91e70e5",
+    "68d130c57add1f18c91e70ec",
+    "68d3e274c1e51ab1b9049ea4"
+  ],
+  "createdAt": {
+    "$date": "2025-09-20T09:50:54.848Z"
+  },
+  "__v": 0,
+  "movieId": "68ce7f6d02c8f60e7f07040a"
+}]

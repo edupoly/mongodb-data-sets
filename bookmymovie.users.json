@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "68cd308f5f2d4c1b4b711529"
+  },
+  "username": "venky",
+  "number": 9876543210,
+  "email": "venky@gmail.com",
+  "password": "123",
+  "role": "theater owner",
+  "createdAt": {
+    "$date": "2025-09-19T10:29:35.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d12eb77add1f18c91e70e1"
+  },
+  "username": "haran",
+  "number": 1234567890,
+  "email": "haran1@gmail.com",
+  "password": "$2b$10$8ik8cz2z6Fdfai/PjhT.p.xc2Jmr2H3/2wNiG2VKWwbIvJ58Kc9OG",
+  "role": "movie owner",
+  "createdAt": {
+    "$date": "2025-09-22T11:10:47.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d130937add1f18c91e70e9"
+  },
+  "username": "sri",
+  "number": 1234567890,
+  "email": "sri@gmail.com",
+  "password": "$2b$10$09i0KpP8yyiJy6ryPf3G9eB5P/neC2dHNViccPdhR7RTTwcvCc8Xe",
+  "role": "customer",
+  "createdAt": {
+    "$date": "2025-09-22T11:18:43.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d17accaa40cd9c6f13f189"
+  },
+  "username": "John Doe",
+  "number": 9876543210,
+  "email": "john@example.com",
+  "password": "$2b$10$lyfWNKIakgftlv69GezSEumYpa6exjlLpl.32b0BKDB3Rrak27loK",
+  "role": "customer",
+  "createdAt": {
+    "$date": "2025-09-22T16:35:24.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d359ed291ecf995c992d31"
+  },
+  "username": "dil",
+  "number": 1212,
+  "email": "dil@gmail.com",
+  "password": "$2b$10$ZFR/CXyFIFMemPdmlTznf.pvAGD5g/AZvsecsWQIkOZlRV8X75Jgm",
+  "role": "movie owner",
+  "createdAt": {
+    "$date": "2025-09-24T02:39:41.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d35a09291ecf995c992d34"
+  },
+  "username": "dvv",
+  "number": 1122,
+  "email": "dvv@gmail.com",
+  "password": "$2b$10$PWYJPUXZba.dPREC4uNhBuzwQi9BFs/ZeXA7reGgcKmZPcLqL6fC6",
+  "role": "movie owner",
+  "createdAt": {
+    "$date": "2025-09-24T02:40:09.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d35a25291ecf995c992d37"
+  },
+  "username": "vish",
+  "number": 2233,
+  "email": "vis@gmail.com",
+  "password": "$2b$10$i6secskRDKVGOOHRJqR63Oj.n.rRMlxwnhJ562Jq87L79XSKtJD.6",
+  "role": "theater owner",
+  "createdAt": {
+    "$date": "2025-09-24T02:40:37.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d35a39291ecf995c992d3a"
+  },
+  "username": "arjun",
+  "number": 2323,
+  "email": "arjun@gmail.com",
+  "password": "$2b$10$w1cLAo7jBbftXuL4w7B.eOd21Q95y5NxYOFLci66h9mNUs6xjoNUO",
+  "role": "theater owner",
+  "createdAt": {
+    "$date": "2025-09-24T02:40:57.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d35a62291ecf995c992d3e"
+  },
+  "username": "uday",
+  "number": 3322,
+  "email": "uday@gmail.com",
+  "password": "$2b$10$q7LnbrhBRH/1R5KDf9JM8eYCKiXZlNm0lgwXgrqtG2brzEJ6J9F4G",
+  "role": "customer",
+  "createdAt": {
+    "$date": "2025-09-24T02:41:38.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3cf8bcd5241aba8605247"
+  },
+  "username": "NagaVamsi",
+  "number": 1212,
+  "email": "nagavamsi@gmail.com",
+  "password": "$2b$10$ixkcUvqtjQJAsOxbcfk3nOSuD6rzcbCva5GkJNY.vFLnp5SdgnRx6",
+  "role": "movie owner",
+  "createdAt": {
+    "$date": "2025-09-24T11:01:31.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3e5e7166729ae16de6ba0"
+  },
+  "username": "dvv",
+  "number": 23232,
+  "email": "dvv@gmail",
+  "password": "$2b$10$v.LFma3.tIHnIiPnyimpCuB08nPddFhFqbjALdQ.tHPWq3ypEAOUi",
+  "role": "movie owner",
+  "createdAt": {
+    "$date": "2025-09-24T12:36:55.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3ed57166729ae16de6ba3"
+  },
+  "username": "raju",
+  "number": 2323,
+  "email": "raju@gmail",
+  "password": "$2b$10$uKbGr3sC2xjHWftHypLqMOJIASOOkOxyapbgr8PankrMVS1FRfwD6",
+  "role": "theater owner",
+  "createdAt": {
+    "$date": "2025-09-24T13:08:39.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d4d0fb166729ae16de6ba6"
+  },
+  "username": "haran",
+  "number": 78748748,
+  "email": "uhbij@gm",
+  "password": "$2b$10$Tj6e0hJi5mPmH/uH5qMpe.pO0y0LkbeCpeznLU8ZZn8IDIBWBvjOK",
+  "role": "theater owner",
+  "createdAt": {
+    "$date": "2025-09-25T05:19:55.978Z"
+  },
+  "__v": 0
+}]

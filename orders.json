@@ -1,0 +1,50 @@
+[
+  {
+    "_id": {
+      "$oid": "64e1c1111111111111111111"
+    },
+    "userId": {
+      "$oid": "64e1a1111111111111111111"
+    },
+    "items": [
+      {
+        "productId": {
+          "$oid": "64e1b1111111111111111111"
+        },
+        "quantity": 2
+      },
+      {
+        "productId": {
+          "$oid": "64e1b2222222222222222222"
+        },
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 71.97,
+    "status": "Shipped",
+    "orderDate": {
+      "$date": "2023-03-01T09:15:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1c2222222222222222222"
+    },
+    "userId": {
+      "$oid": "64e1a2222222222222222222"
+    },
+    "items": [
+      {
+        "productId": {
+          "$oid": "64e1b3333333333333333333"
+        },
+        "quantity": 3
+      }
+    ],
+    "totalAmount": 46.5,
+    "status": "Processing",
+    "orderDate": {
+      "$date": "2023-03-05T11:20:00Z"
+    }
+  }
+]

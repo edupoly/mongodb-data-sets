@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "68ce844da4904a08757be30e"
+  },
+  "movieId": {
+    "$oid": "68ce7f6d02c8f60e7f07040a"
+  },
+  "theaterId": {
+    "$oid": "68ce78fe49ee2547c019e991"
+  },
+  "screen": 1,
+  "showDate": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "showTime": "19:30",
+  "price": 250,
+  "totalSeats": 100,
+  "bookedSeats": [],
+  "createdAt": {
+    "$date": "2025-09-20T10:39:09.661Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-20T10:39:09.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d130417add1f18c91e70e5"
+  },
+  "movieId": {
+    "$oid": "68ce7f6d02c8f60e7f07040a"
+  },
+  "theaterId": {
+    "$oid": "68ce78fe49ee2547c019e991"
+  },
+  "screen": 1,
+  "showDate": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "showTime": "19:30",
+  "price": 250,
+  "totalSeats": 100,
+  "bookedSeats": [],
+  "createdAt": {
+    "$date": "2025-09-22T11:17:21.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T11:17:21.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d130c57add1f18c91e70ec"
+  },
+  "movieId": {
+    "$oid": "68ce7f6d02c8f60e7f07040a"
+  },
+  "theaterId": {
+    "$oid": "68ce78fe49ee2547c019e991"
+  },
+  "screen": 1,
+  "showDate": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "showTime": "19:30",
+  "price": 250,
+  "totalSeats": 100,
+  "bookedSeats": [
+    {
+      "userID": "68d130937add1f18c91e70e9",
+      "seatsBooked": "1-5",
+      "bookedAt": {
+        "$date": "2025-09-23T14:46:02.298Z"
+      },
+      "showTime": "19:30",
+      "showDate": {
+        "$date": "2025-09-21T00:00:00.000Z"
+      }
+    },
+    {
+      "userID": "68d130937add1f18c91e70e9",
+      "seatsBooked": "6-10",
+      "bookedAt": {
+        "$date": "2025-09-23T14:46:53.025Z"
+      },
+      "showTime": "19:30",
+      "showDate": {
+        "$date": "2025-09-21T00:00:00.000Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-22T11:19:33.462Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T14:46:53.026Z"
+  },
+  "__v": 6,
+  "filledSeats": 10,
+  "remainingSeats": 90
+},
+{
+  "_id": {
+    "$oid": "68d3e274c1e51ab1b9049ea4"
+  },
+  "movieId": "68ce7f6d02c8f60e7f07040a",
+  "theaterId": "68ce78fe49ee2547c019e991",
+  "screen": 1,
+  "showDate": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "showTime": "19:30",
+  "price": 250,
+  "totalSeats": 100,
+  "bookedSeats": [],
+  "sittingArrangement": [
+    {
+      "row": "A",
+      "col": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "row": "B",
+      "col": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "row": "C",
+      "col": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "row": "D",
+      "col": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "row": "E",
+      "col": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "row": "F",
+      "col": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-24T12:22:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:22:12.985Z"
+  },
+  "__v": 0
+}]

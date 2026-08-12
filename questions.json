@@ -1,0 +1,216 @@
+[
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950d45",
+    "correctAnswer": "Black Eyed Peas",
+    "incorrectAnswers": [
+      "MercyMe",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which band includes 'will.i.am'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c387cc59eab6f950b20",
+    "correctAnswer": "Spice Girls",
+    "incorrectAnswers": [
+      "The Supremes",
+      "TLC",
+      "All Saints"
+    ],
+    "question": {
+      "text": "Which band was Geri Halliwell a member of?"
+    },
+    "tags": [
+      "people",
+      "music",
+      "pop_music",
+      "bands"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "6477ba5c550bc819ad646a8a",
+    "correctAnswer": "David Bowie",
+    "incorrectAnswers": [
+      "Elton John",
+      "Freddie Mercury",
+      "Jim Morrison"
+    ],
+    "question": {
+      "text": "Which musician wrote the lyrics 'Am I sitting in a tin can? Far above the world, planet Earth is blue and there's nothing I can do'?"
+    },
+    "tags": [
+      "lyrics",
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c3c7cc59eab6f95198e",
+    "correctAnswer": "Ladies Love Cool James",
+    "incorrectAnswers": [
+      "Live Laugh Cool Jokes",
+      "Little Lean Cool Jams",
+      "Look Look Cool Jives"
+    ],
+    "question": {
+      "text": "What does LL Cool J.'s name stand for?"
+    },
+    "tags": [
+      "pseudonyms",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "636a5265990390307063f394",
+    "correctAnswer": "Girl, You'll Be a Woman Soon",
+    "incorrectAnswers": [
+      "Twist and Shout",
+      "Landslide",
+      "American Woman"
+    ],
+    "question": {
+      "text": "Which song was originally recorded by Neil Diamond and was later covered by Urge Overkill?"
+    },
+    "tags": [
+      "music",
+      "cover_song",
+      "songs",
+      "musicians"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c357cc59eab6f94ffce",
+    "correctAnswer": "Aswad",
+    "incorrectAnswers": [
+      "Abrah",
+      "Salar",
+      "Jawab"
+    ],
+    "question": {
+      "text": "Which pop group took their name from the Arabic word for black?"
+    },
+    "tags": [
+      "words",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c347cc59eab6f94fb9a",
+    "correctAnswer": "\"Basket Case\" by Green Day",
+    "incorrectAnswers": [
+      "\"Hooked on a Feeling\" by B.J. Thomas",
+      "\"American Pie\" by Don McLean",
+      "\"Gangsta's Paradise\" by Coolio feat. L.V."
+    ],
+    "question": {
+      "text": "Which song begins with the lyrics: \"Do you have the time to listen to me whine...\"?"
+    },
+    "tags": [
+      "songs",
+      "lyrics",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950d29",
+    "correctAnswer": "The Beatles",
+    "incorrectAnswers": [
+      "Deep Purple",
+      "Feeder",
+      "Uriah Heep"
+    ],
+    "question": {
+      "text": "Which English rock band released the song 'Let It Be'?"
+    },
+    "tags": [
+      "songs",
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c46",
+    "correctAnswer": "The Beach Boys",
+    "incorrectAnswers": [
+      "Swans",
+      "Three 6 Mafia",
+      "The Velvet Underground"
+    ],
+    "question": {
+      "text": "Which American rock band released the studio album 'Smiley Smile'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "category": "music",
+    "id": "622a1c397cc59eab6f950c90",
+    "correctAnswer": "The Rolling Stones",
+    "incorrectAnswers": [
+      "McFly",
+      "Delirious?",
+      "Depeche Mode"
+    ],
+    "question": {
+      "text": "Which English rock band released the song 'Brown Sugar'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  }
+]

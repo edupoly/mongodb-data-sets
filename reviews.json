@@ -1,0 +1,34 @@
+[
+  {
+    "_id": {
+      "$oid": "64e1d1111111111111111111"
+    },
+    "productId": {
+      "$oid": "64e1b1111111111111111111"
+    },
+    "userId": {
+      "$oid": "64e1a1111111111111111111"
+    },
+    "rating": 4,
+    "comment": "Good mouse, works well.",
+    "date": {
+      "$date": "2023-03-02T14:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1d2222222222222222222"
+    },
+    "productId": {
+      "$oid": "64e1b2222222222222222222"
+    },
+    "userId": {
+      "$oid": "64e1a2222222222222222222"
+    },
+    "rating": 5,
+    "comment": "Great book for JavaScript learners.",
+    "date": {
+      "$date": "2023-03-06T10:00:00Z"
+    }
+  }
+]

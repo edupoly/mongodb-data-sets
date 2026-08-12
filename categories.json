@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "name": "Electronics"
+  },
+  {
+    "_id": 2,
+    "name": "Books"
+  },
+  {
+    "_id": 3,
+    "name": "Clothing"
+  },
+  {
+    "_id": 4,
+    "name": "Home Appliances"
+  },
+  {
+    "_id": 5,
+    "name": "Sports"
+  },
+  {
+    "_id": 6,
+    "name": "Beauty & Personal Care"
+  },
+  {
+    "_id": 7,
+    "name": "Toys"
+  },
+  {
+    "_id": 8,
+    "name": "Automotive"
+  },
+  {
+    "_id": 9,
+    "name": "Furniture"
+  },
+  {
+    "_id": 10,
+    "name": "Music"
+  },
+  {
+    "_id": 11,
+    "name": "Pet Supplies"
+  },
+  {
+    "_id": 12,
+    "name": "Groceries"
+  }
+]

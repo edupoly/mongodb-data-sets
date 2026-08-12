@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "68ce7f6d02c8f60e7f07040a"
+  },
+  "title": "Inception",
+  "description": "A skilled thief is offered a chance to erase his criminal record if he can successfully perform inception — planting an idea into someone's subconscious.",
+  "duration": 148,
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "genre": [
+    "Sci-Fi",
+    "Thriller",
+    "Action"
+  ],
+  "releaseDate": {
+    "$date": "2010-07-16T00:00:00.000Z"
+  },
+  "rating": 8.8,
+  "reviews": "A visually stunning, high-concept thriller that challenges your perception of reality.",
+  "cast": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page",
+    "Tom Hardy"
+  ],
+  "crew": [
+    "Christopher Nolan",
+    "Hans Zimmer"
+  ],
+  "censorCertificate": "U/A",
+  "posterUrl": "https://example.com/images/inception.jpg",
+  "dates": [
+    {
+      "$date": "2025-09-21T00:00:00.000Z"
+    },
+    {
+      "$date": "2025-09-22T00:00:00.000Z"
+    }
+  ],
+  "theaters": [
+    "651f91ae5a72ab001c123456",
+    "651f91ae5a72ab001c123457"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14630d10c2b644d0b6457"
+  },
+  "title": "Oppenheimer",
+  "description": "A brilliant physicist must risk everything to build the first atomic bomb during World War II.",
+  "duration": 180,
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "genre": [
+    "Drama",
+    "History",
+    "Biography"
+  ],
+  "releaseDate": {
+    "$date": "2023-07-21T00:00:00.000Z"
+  },
+  "rating": 9.1,
+  "reviews": "A thought-provoking and intense cinematic experience.",
+  "cast": [
+    "Cillian Murphy",
+    "Emily Blunt",
+    "Robert Downey Jr."
+  ],
+  "crew": [
+    "Christopher Nolan",
+    "Ludwig Göransson",
+    "Hoyte van Hoytema"
+  ],
+  "censorCertificate": "U/A",
+  "posterUrl": "https://example.com/posters/oppenheimer.jpg",
+  "theaters": [
+    "PVR Andheri",
+    "INOX GVK One",
+    "Cinepolis Delhi"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14712b7ef4f87592c1d9d"
+  },
+  "title": "Oppenheimer",
+  "description": "A brilliant physicist must risk everything to build the first atomic bomb during World War II.",
+  "duration": 180,
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "genre": [
+    "Drama",
+    "History",
+    "Biography"
+  ],
+  "releaseDate": {
+    "$date": "2023-07-21T00:00:00.000Z"
+  },
+  "rating": 9.1,
+  "reviews": "A thought-provoking and intense cinematic experience.",
+  "cast": [
+    "Cillian Murphy",
+    "Emily Blunt",
+    "Robert Downey Jr."
+  ],
+  "crew": [
+    "Christopher Nolan",
+    "Ludwig Göransson",
+    "Hoyte van Hoytema"
+  ],
+  "censorCertificate": "U/A",
+  "posterUrl": "https://example.com/posters/oppenheimer.jpg",
+  "theaters": [
+    "PVR Andheri",
+    "INOX GVK One",
+    "Cinepolis Delhi"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d60e91bb17ef623c10392c"
+  },
+  "title": "thammudu",
+  "description": "skjdh",
+  "duration": 180,
+  "language": [
+    "Telugu",
+    "English"
+  ],
+  "genre": [
+    "Action",
+    "Comedy"
+  ],
+  "releaseDate": {
+    "$date": "2025-10-10T00:00:00.000Z"
+  },
+  "rating": 0,
+  "reviews": "",
+  "cast": [
+    "nitin",
+    "laya",
+    "varsha"
+  ],
+  "crew": [
+    "evado",
+    "dsp"
+  ],
+  "censorCertificate": "U/A",
+  "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTU4NGMzMmMtMGVlNy00YTU5LTg1NWMtYmZmNGU3NjYwYzUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68dbe4e1336bbc4873a664b5"
+  },
+  "title": "Inception",
+  "description": "A mind-bending thriller about dreams within dreams.",
+  "duration": 148,
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "genre": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "releaseDate": {
+    "$date": "2010-07-16T00:00:00.000Z"
+  },
+  "rating": 8.8,
+  "reviews": "Excellent movie with stunning visuals.",
+  "cast": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt"
+  ],
+  "crew": [
+    "Christopher Nolan",
+    "Hans Zimmer"
+  ],
+  "censorCertificate": "PG-13",
+  "posterUrl": "http://example.com/poster.jpg",
+  "__v": 0
+}]

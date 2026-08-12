@@ -1,0 +1,206 @@
+[
+  {
+    "_id": {
+      "$oid": "64e1a1111111111111111111"
+    },
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "age": 29,
+    "isPrimeMember": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "zip": "10001"
+    },
+    "joined": {
+      "$date": "2023-02-15T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a2222222222222222222"
+    },
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "age": 35,
+    "isPrimeMember": false,
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Chicago",
+      "zip": "60610"
+    },
+    "joined": {
+      "$date": "2022-10-05T15:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a3333333333333333333"
+    },
+    "name": "Charlie Davis",
+    "email": "charlie@example.com",
+    "age": 40,
+    "isPrimeMember": true,
+    "address": {
+      "street": "789 Pine Rd",
+      "city": "Los Angeles",
+      "zip": "90001"
+    },
+    "joined": {
+      "$date": "2021-06-12T09:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a4444444444444444444"
+    },
+    "name": "Diana Ross",
+    "email": "diana@example.com",
+    "age": 27,
+    "isPrimeMember": false,
+    "address": {
+      "street": "321 Maple St",
+      "city": "Houston",
+      "zip": "77002"
+    },
+    "joined": {
+      "$date": "2023-05-21T13:45:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a5555555555555555555"
+    },
+    "name": "Ethan Wright",
+    "email": "ethan@example.com",
+    "age": 33,
+    "isPrimeMember": true,
+    "address": {
+      "street": "654 Cedar Ave",
+      "city": "Phoenix",
+      "zip": "85001"
+    },
+    "joined": {
+      "$date": "2022-02-01T08:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a6666666666666666666"
+    },
+    "name": "Fiona Lee",
+    "email": "fiona@example.com",
+    "age": 31,
+    "isPrimeMember": true,
+    "address": {
+      "street": "987 Birch Blvd",
+      "city": "Philadelphia",
+      "zip": "19103"
+    },
+    "joined": {
+      "$date": "2021-11-15T15:15:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a7777777777777777777"
+    },
+    "name": "George Hall",
+    "email": "george@example.com",
+    "age": 26,
+    "isPrimeMember": false,
+    "address": {
+      "street": "147 Elm St",
+      "city": "San Antonio",
+      "zip": "78205"
+    },
+    "joined": {
+      "$date": "2023-08-01T14:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a8888888888888888888"
+    },
+    "name": "Hannah Scott",
+    "email": "hannah@example.com",
+    "age": 38,
+    "isPrimeMember": true,
+    "address": {
+      "street": "258 Walnut Ave",
+      "city": "San Diego",
+      "zip": "92101"
+    },
+    "joined": {
+      "$date": "2020-03-18T12:20:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a9999999999999999999"
+    },
+    "name": "Ian Moore",
+    "email": "ian@example.com",
+    "age": 45,
+    "isPrimeMember": false,
+    "address": {
+      "street": "369 Spruce Dr",
+      "city": "Dallas",
+      "zip": "75201"
+    },
+    "joined": {
+      "$date": "2019-07-10T16:10:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a1010101010101010101"
+    },
+    "name": "Jenna Brown",
+    "email": "jenna@example.com",
+    "age": 24,
+    "isPrimeMember": true,
+    "address": {
+      "street": "753 Willow Ct",
+      "city": "Austin",
+      "zip": "73301"
+    },
+    "joined": {
+      "$date": "2023-01-10T09:05:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a1212121212121212121"
+    },
+    "name": "Kevin Young",
+    "email": "kevin@example.com",
+    "age": 36,
+    "isPrimeMember": true,
+    "address": {
+      "street": "951 Aspen Way",
+      "city": "San Jose",
+      "zip": "95110"
+    },
+    "joined": {
+      "$date": "2022-12-02T18:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64e1a1313131313131313131"
+    },
+    "name": "Linda Perez",
+    "email": "linda@example.com",
+    "age": 28,
+    "isPrimeMember": false,
+    "address": {
+      "street": "852 Poplar Ln",
+      "city": "Jacksonville",
+      "zip": "32099"
+    },
+    "joined": {
+      "$date": "2021-09-30T21:30:00Z"
+    }
+  }
+]
